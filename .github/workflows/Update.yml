@@ -1,78 +1,144 @@
 name: Update
-
+# 定义工作流名称为Update，当满足下面的触发条件时会执行该工作流相关的任务
 on:
   watch:
     types: [started]
+  # 当仓库被关注（watch）且操作类型为started时触发工作流
   schedule:
     - cron: 0,30 * * * *
+    # 设置定时任务的Cron表达式，这里表示每小时的0分和30分触发工作流，可用于定时执行更新操作
 
 env:
   TZ: Asia/Shanghai
+  # 设置环境变量TZ，指定时区为上海（Asia/Shanghai），确保时间相关操作按照此时区来执行
 
 jobs:
   Update:
     runs-on: ubuntu-latest
+    # 定义名为Update的任务，指定运行环境为最新版本的Ubuntu操作系统
     steps:
     - name: Checkout
       uses: actions/checkout@v3
+      # 使用名为actions/checkout的官方GitHub Action，版本为v3，作用是将仓库代码检出到运行环境中，方便后续操作
 
     - name: GetTime
       id: date
       run: echo "::set-output name=date::$(date +'%Y-%m-%d %H:%M:%S CST')"
+      # 定义一个步骤名为GetTime，设置其id为date，执行的命令是通过date命令获取当前时间（格式为'年-月-日 时:分:秒 CST'，CST表示中国标准时间），并将时间作为输出变量date，方便后续步骤引用
 
     - name: Update
       run: |
-        # 央视源
+        # 央视源相关操作开始
         rm -f CCTV.m3u && wget https://raw.dgithub.xyz/fanmingming/live/main/tv/m3u/ipv6.m3u -O CCTV.m3u
+        # 先删除本地名为CCTV.m3u的文件（如果存在），然后从指定的URL下载文件并保存为CCTV.m3u，这里可能是获取央视的相关播放源列表文件
+
         sed -i -n '/CCTV-1\|CCTV-2\|CCTV-3\|CCTV-4\|CCTV-5\|CCTV-5\|CCTV-6\|CCTV-7\|CCTV-8\|CCTV-9\|CCTV-10\|CCTV-11\|CCTV-12\|CCTV-13\|CCTV-14\|CCTV-15\|CCTV-16\|CCTV-17\|CCTV-4K\|CCTV-8K\+/,+1p' CCTV.m3u
+        # 使用sed命令（一种文本处理工具），对CCTV.m3u文件进行处理，只提取包含指定央视频道名称（如CCTV-1到CCTV-17等相关频道）及其后一行的内容，这里是对获取到的源列表进行筛选，保留需要的央视频道相关部分
+
         sed -i 's/央视频道/央视/' CCTV.m3u
+        # 将文件中所有的"央视频道"字符串替换为"央视"，进行文本内容的规范化修改
+
         sed -i '/联通/,+1d' CCTV.m3u
+        # 对于文件中包含"联通"字样的行以及其下一行内容进行删除，可能是去除与联通相关不需要的配置或者源信息
+
         sed -i '1i #EXTM3U' CCTV.m3u
+        # 在文件的第一行插入"#EXTM3U"，这可能是符合某种播放列表格式的头部标识
+
         sed -i '/^\s*$/d' CCTV.m3u
+        # 删除文件中所有的空白行，对文件内容进行整理，去除多余的空行
 
-        # 卫视源
+        # 卫视源相关操作开始
         rm -f STV.m3u && wget https://raw.dgithub.xyz/fanmingming/live/main/tv/m3u/ipv6.m3u -O STV.m3u
-        sed -i -n '/湖南卫视\|浙江卫视\|东方卫视\|北京卫视\|江苏卫视\|安徽卫视\|重庆卫视\|东南卫视\|甘肃卫视\|广东卫视\|广西卫视\|贵州卫视\|海南卫视\|河北卫视\|黑龙江卫视\|河南卫视\|湖北卫视\|江西卫视\|吉林卫视\|辽宁卫视\|山东卫视\|深圳卫视\|四川卫视\|天津卫视\|云南卫视\|新疆卫视\|三沙卫视\|青海卫视\|陕西卫视\|山西卫视\|西藏卫视\|内蒙古卫视\|宁夏卫视\|兵团卫视\|安多卫视\|康巴卫视\|大湾区卫视\|农林卫视\|延边卫视\|厦门卫视\+/,+1p' STV.m3u
-        sed -i 's/卫视频道/卫视/' STV.m3u
-        sed -i '/联通/,+1d' STV.m3u
-        sed -i '1i #EXTM3U' STV.m3u
-        sed -i '/^\s*$/d' STV.m3u
-        
-        # 数字源
-        rm -f DTV.m3u && wget https://raw.dgithub.xyz/fanmingming/live/main/tv/m3u/ipv6.m3u -O DTV.m3u
-        sed -i -n '/CHC影迷电影\|CHC家庭影院\|CHC动作电影\|欢笑剧场\|都市剧场\|黑莓电影\|黑莓动画\|newtv\+/,+1p' DTV.m3u
-        sed -i 's/央视频道/数字/;s/卫视频道/数字/;s/地方/数字/;s/数字频道/数字/' DTV.m3u
-        sed -i '1i #EXTM3U' DTV.m3u
-        sed -i '/^\s*$/d' DTV.m3u
-        
-        # IHOT
-        rm -f IHOT.m3u && wget https://raw.dgithub.xyz/Kimentanm/aptv/master/m3u/iptv.m3u -O IHOT.m3u
-        sed -i -n '/IHOT爱\+/,+1p' IHOT.m3u
-        sed -i '/iHOT爱怀旧\|iHOT爱经典\|iHOT爱娱乐\|iHOT爱江湖\|iHOT爱探索\|iHOT爱世界\|iHOT爱极限\|iHOT爱解密\|iHOT爱猎奇\|iHOT爱美食\|iHOT爱时尚\|iHOT爱家庭\|iHOT爱都市/,+1d' IHOT.m3u
-        sed -i 's/\"浙江求索生活\"/\"求索生活\"/g' IHOT.m3u
-        sed -i '1i #EXTM3U' IHOT.m3u
-        sed -i '/^\s*$/d' IHOT.m3u
+        # 与央视源操作类似，先删除本地的STV.m3u文件（若存在），再从指定URL下载并保存为STV.m3u，可能是获取卫视相关播放源列表
 
-        # 整合源
+        sed -i -n '/湖南卫视\|浙江卫视\|东方卫视\|北京卫视\|江苏卫视\|安徽卫视\|重庆卫视\|东南卫视\|甘肃卫视\|广东卫视\|广西卫视\|贵州卫视\|海南卫视\|河北卫视\|黑龙江卫视\|河南卫视\|湖北卫视\|江西卫视\|吉林卫视\|辽宁卫视\|山东卫视\|深圳卫视\|四川卫视\|天津卫视\|云南卫视\|新疆卫视\|三沙卫视\|青海卫视\|陕西卫视\|山西卫视\|西藏卫视\|内蒙古卫视\|宁夏卫视\|兵团卫视\|安多卫视\|康巴卫视\|大湾区卫视\|农林卫视\|延边卫视\|厦门卫视\+/,+1p' STV.m3u
+        # 使用sed命令筛选出包含指定卫视名称及其后一行的内容，提取需要的卫视频道相关部分
+
+        sed -i 's/卫视频道/卫视/' STV.m3u
+        # 将文件中"卫视频道"字符串替换为"卫视"，进行文本规范修改
+
+        sed -i '/联通/,+1d' STV.m3u
+        # 同样删除包含"联通"字样及其下一行的内容，去除不需要的联通相关信息
+
+        sed -i '1i #EXTM3U' STV.m3u
+        # 在文件第一行插入"#EXTM3U"标识
+
+        sed -i '/^\s*$/d' STV.m3u
+        # 删除文件中的空白行，整理文件内容
+
+        # 数字源相关操作开始
+        rm -f DTV.m3u && wget https://raw.dgithub.xyz/fanmingming/live/main/tv/m3u/ipv6.m3u -O DTV.m3u
+        # 先删除本地DTV.m3u文件（若有），再从指定URL下载保存为DTV.m3u，获取数字源相关播放列表
+
+        sed -i -n '/CHC影迷电影\|CHC家庭影院\|CHC动作电影\|欢笑剧场\|都市剧场\|黑莓电影\|黑莓动画\|newtv\+/,+1p' DTV.m3u
+        # 使用sed命令筛选出包含指定数字频道相关名称及其后一行的内容，提取数字频道相关部分
+
+        sed -i 's/央视频道/数字/;s/卫视频道/数字/;s/地方/数字/;s/数字频道/数字/' DTV.m3u
+        # 将文件中出现的"央视频道"、"卫视频道"、"地方"、"数字频道"等字符串都替换为"数字"，统一文本表述
+
+        sed -i '1i #EXTM3U' DTV.m3u
+        # 在文件第一行插入"#EXTM3U"标识
+
+        sed -i '/^\s*$/d' DTV.m3u
+        # 删除文件中的空白行，整理文件内容
+
+        # IHOT相关操作开始
+        rm -f IHOT.m3u && wget https://raw.dgithub.xyz/Kimentanm/aptv/master/m3u/iptv.m3u -O IHOT.m3u
+        # 先删除本地IHOT.m3u文件（若存在），再从指定URL下载并保存为IHOT.m3u，获取IHOT相关播放源列表
+
+        sed -i -n '/IHOT爱\+/,+1p' IHOT.m3u
+        # 使用sed命令筛选出包含"IHOT爱"开头相关名称及其后一行的内容，提取IHOT相关频道部分
+
+        sed -i '/iHOT爱怀旧\|iHOT爱经典\|iHOT爱娱乐\|iHOT爱江湖\|iHOT爱探索\|iHOT爱世界\|iHOT爱极限\|iHOT爱解密\|iHOT爱猎奇\|iHOT爱美食\|iHOT爱时尚\|iHOT爱家庭\|iHOT爱都市/,+1d' IHOT.m3u
+        # 对于包含指定iHOT相关频道名称及其下一行的内容进行删除，可能是去除不需要的频道配置信息
+
+        sed -i 's/\"浙江求索生活\"/\"求索生活\"/g' IHOT.m3u
+        # 将文件中所有的"浙江求索生活"字符串替换为"求索生活"，进行文本内容的修正
+
+        sed -i '1i #EXTM3U' IHOT.m3u
+        # 在文件第一行插入"#EXTM3U"标识
+
+        sed -i '/^\s*$/d' IHOT.m3u
+        # 删除文件中的空白行，整理文件内容
+
+        # 整合源相关操作开始
         rm -f IPTV.m3u && touch IPTV.m3u
+        # 先删除本地的IPTV.m3u文件（若存在），然后创建一个空的IPTV.m3u文件，用于后续整合各个源的播放列表
+
         cat CCTV.m3u >> IPTV.m3u
         cat STV.m3u >> IPTV.m3u
         cat DTV.m3u >> IPTV.m3u
         cat IHOT.m3u >> IPTV.m3u
-        sed -i '/#EXTM3U/d' IPTV.m3u
-        sed -i '1i #EXTM3U' IPTV.m3u
-        sed -i '/^\s*$/d' IPTV.m3u
+        # 将之前处理好的央视源、卫视源、数字源、IHOT源的播放列表文件内容依次追加到IPTV.m3u文件中，实现整合
 
-        # 节目源
+        sed -i '/#EXTM3U/d' IPTV.m3u
+        # 删除IPTV.m3u文件中重复的"#EXTM3U"行（因为之前每个源文件添加过，整合后会有多余的）
+
+        sed -i '1i #EXTM3U' IPTV.m3u
+        # 在整合后的IPTV.m3u文件第一行重新插入"#EXTM3U"标识，确保格式正确
+
+        sed -i '/^\s*$/d' IPTV.m3u
+        # 删除整合后文件中的空白行，整理文件内容
+
+        # 节目源相关操作开始
         rm -f EPG.xml && wget https://epg.112114.xyz/pp.xml -O EPG.xml
+        # 先删除本地的EPG.xml文件（若存在），然后从指定URL下载文件并保存为EPG.xml，这里可能是获取节目预告相关的XML数据文件
+
         echo "Auto Update IPTV in ${{ steps.date.outputs.date }}" > README.md
+        # 将包含自动更新IPTV时间（通过之前获取的date输出变量）的文本信息写入到README.md文件中，用于记录更新情况
 
     - name: Clean
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
+        # 配置本地的Git用户邮箱和用户名，用于后续Git操作的身份标识，这里使用的是GitHub Actions机器人相关的标识
+
         git add -A
+        # 将所有更改的文件添加到Git的暂存区，准备提交
+
         git commit -am "${{ steps.date.outputs.date }}"
+        # 使用之前获取的时间作为提交信息，提交暂存区的所有更改，创建一个新的Git提交
 
     - name: Push
       run: git push -f origin master
+      # 强制推送（-f选项）本地的更改到远程仓库的master分支，将更新后的代码、配置文件等推送到远程仓库
