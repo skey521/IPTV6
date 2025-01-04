@@ -1,19 +1,11 @@
 name: Update
 
-
 on:
   watch:
     types: [started]
   schedule:
     - cron: 0,30 * * * *
 
-push:
-    paths-ignore:
-      - 。github
-      - 。gitignore
-      - LICENSE
-      - logo.png
-      
 env:
   TZ: Asia/Shanghai
 
