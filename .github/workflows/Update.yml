@@ -6,6 +6,13 @@ on:
   schedule:
     - cron: '0 1,9,21 * * *'
 
+push:
+    paths-ignore:
+      - 。github
+      - 。gitignore
+      - LICENSE
+      - logo.png
+      
 env:
   TZ: Asia/Shanghai
 
