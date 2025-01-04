@@ -2,7 +2,8 @@ name: Update
 
 
 on:
-  workflow_dispatch:
+  watch:
+    types: [started]
   schedule:
     - cron: 0,30 * * * *
 
