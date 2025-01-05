@@ -102,6 +102,9 @@
 	<programme channel="4K综艺" start="20250105214600 +0800" stop="20250105231600 +0800">
 		<title lang="zh">我最爱的女人们20190719</title>
 	</programme>
+	<programme channel="4K综艺" start="20250105231600 +0800" stop="20250105000000 +0800">
+		<title lang="zh">我最爱的女人们20190720</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -46239,6 +46242,9 @@
 	<programme channel="明星大片" start="20250105223200 +0800" stop="20250105230700 +0800">
 		<title lang="zh">15_西出玉门</title>
 	</programme>
+	<programme channel="明星大片" start="20250105230700 +0800" stop="20250105001900 +0800">
+		<title lang="zh">西游记比丘国</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -70548,6 +70554,9 @@
 	<programme channel="纯享4K" start="20250105221900 +0800" stop="20250105230800 +0800">
 		<title lang="zh">乘火车看中国4K 第六集 茶马之路</title>
 	</programme>
+	<programme channel="纯享4K" start="20250105230800 +0800" stop="20250105234700 +0800">
+		<title lang="zh">探索b7发现4K 黑土地和她的朋友们（3）你我皆凡人</title>
+	</programme>
 	<channel id="绍兴文化影视">
 		<display-name lang="zh">绍兴文化影视</display-name>
 	</channel>
@@ -85992,6 +86001,9 @@
 	<programme channel="黑莓动画" start="20250105223800 +0800" stop="20250105230100 +0800">
 		<title lang="zh">24_夏目友人帐 第1季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250105230100 +0800" stop="20250105232500 +0800">
+		<title lang="zh">02_间谍过家家第2季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -87354,6 +87366,9 @@
 	<programme channel="newtv精品纪录" start="20250105220000 +0800" stop="20250105224800 +0800">
 		<title lang="zh">(券)同仁堂即食海参参王特惠升级组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250105224800 +0800" stop="20250105233400 +0800">
+		<title lang="zh">第三集 知兵</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -87546,6 +87561,9 @@
 	<programme channel="newtv军旅剧场" start="20250105220900 +0800" stop="20250105225300 +0800">
 		<title lang="zh">04_铁血玫瑰</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250105225300 +0800" stop="20250105233800 +0800">
+		<title lang="zh">05_铁血玫瑰</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -87638,6 +87656,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250105222300 +0800" stop="20250105230700 +0800">
 		<title lang="zh">11_独生子女的婆婆妈妈</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250105230700 +0800" stop="20250105235100 +0800">
+		<title lang="zh">12_独生子女的婆婆妈妈</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -87975,6 +87996,9 @@
 	<programme channel="newtv怡伴健康" start="20250105222800 +0800" stop="20250105225900 +0800">
 		<title lang="zh">《花样人生》推荐第六期</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250105225900 +0800" stop="20250105001900 +0800">
+		<title lang="zh">文成才女书写诗样年华</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -88067,6 +88091,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250105221400 +0800" stop="20250105231400 +0800">
 		<title lang="zh">李川霸总续集油“死”人了</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250105231400 +0800" stop="20250105000400 +0800">
+		<title lang="zh">南极奋进号高纯南极磷虾油（下单立减50）-渠道（右）</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -88221,6 +88248,9 @@
 	<programme channel="newtv军事评论" start="20250105224000 +0800" stop="20250105230200 +0800">
 		<title lang="zh">突袭拉迪芬萨山</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250105230200 +0800" stop="20250105232400 +0800">
+		<title lang="zh">空降诺曼底</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -88326,6 +88356,9 @@
 	<programme channel="newtv炫舞未来" start="20250105224500 +0800" stop="20250105225800 +0800">
 		<title lang="zh">漫步人生路-孙爱迪</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250105231200 +0800" stop="20250105003500 +0800">
+		<title lang="zh">声声入戏 中央广播电视总台首届京剧票友大会（20241220）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -88418,6 +88451,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250105223200 +0800" stop="20250105230700 +0800">
 		<title lang="zh">15_西出玉门</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250105230700 +0800" stop="20250105001900 +0800">
+		<title lang="zh">西游记比丘国</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -88715,6 +88751,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250105221200 +0800" stop="20250105230000 +0800">
 		<title lang="zh">16_雪中悍刀行</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250105230000 +0800" stop="20250105002400 +0800">
+		<title lang="zh">钟馗降魔</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
