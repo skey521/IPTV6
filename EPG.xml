@@ -30747,6 +30747,9 @@
 	<programme channel="咪咕足球" start="20250105190000 +0800" stop="20250105221500 +0800">
 		<title lang="zh">当燃CBA 24/25常规赛第27轮 山西汾酒-新疆伊力特 直播</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250105222000 +0800" stop="20250105000000 +0800">
+		<title lang="zh">我爱女篮 WCBA常规赛第16轮 内蒙古农信-浙江稠州银行</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -42791,6 +42794,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20250105213500 +0800" stop="20250105220500 +0800">
 		<title lang="zh">《美丽改变生活》第五期</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20250105220500 +0800" stop="20250105233700 +0800">
+		<title lang="zh">绝命藏宝图</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -85974,6 +85980,9 @@
 	<programme channel="黑莓动画" start="20250105220000 +0800" stop="20250105221300 +0800">
 		<title lang="zh">05_踢踢和奇奇之魔力课堂 第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250105221300 +0800" stop="20250105223800 +0800">
+		<title lang="zh">23_夏目友人帐第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -87114,6 +87123,9 @@
 	<programme channel="newtv超级电视剧" start="20250105212600 +0800" stop="20250105221200 +0800">
 		<title lang="zh">10_烟火人家</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250105221200 +0800" stop="20250105225700 +0800">
+		<title lang="zh">11_烟火人家</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -87507,6 +87519,9 @@
 	<programme channel="newtv军旅剧场" start="20250105213900 +0800" stop="20250105220900 +0800">
 		<title lang="zh">《花样人生》推荐第六期</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250105220900 +0800" stop="20250105225300 +0800">
+		<title lang="zh">04_铁血玫瑰</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -87680,6 +87695,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250105213200 +0800" stop="20250105220200 +0800">
 		<title lang="zh">《美丽改变生活》第五期</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250105220200 +0800" stop="20250105232400 +0800">
+		<title lang="zh">现在就出发</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -88016,6 +88034,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250105214400 +0800" stop="20250105221400 +0800">
 		<title lang="zh">《花样人生》推荐第六期</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250105221400 +0800" stop="20250105231400 +0800">
+		<title lang="zh">李川霸总续集油“死”人了</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -88413,6 +88434,9 @@
 	<programme channel="newtv惊悚悬疑" start="20250105213500 +0800" stop="20250105220500 +0800">
 		<title lang="zh">《美丽改变生活》第五期</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250105220500 +0800" stop="20250105233700 +0800">
+		<title lang="zh">绝命藏宝图</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -88640,6 +88664,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250105214200 +0800" stop="20250105221200 +0800">
 		<title lang="zh">【推广】十二生肖酒 30分钟版本</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250105221200 +0800" stop="20250105230000 +0800">
+		<title lang="zh">16_雪中悍刀行</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
