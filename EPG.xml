@@ -41274,6 +41274,9 @@
 	<programme channel="惊悚悬疑" start="20250106173800 +0800" stop="20250106190800 +0800">
 		<title lang="zh">一号化妆间</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250106190800 +0800" stop="20250106193800 +0800">
+		<title lang="zh">《花样人生》推荐第二期</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -81630,6 +81633,9 @@
 	<programme channel="黑莓动画" start="20250106184800 +0800" stop="20250106190200 +0800">
 		<title lang="zh">02_龙战士星源</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250106191600 +0800" stop="20250106193000 +0800">
+		<title lang="zh">26_咖宝车神第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -82734,6 +82740,9 @@
 	<programme channel="newtv精品大剧" start="20250106184400 +0800" stop="20250106191300 +0800">
 		<title lang="zh">《花样人生》推荐第二期</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250106191300 +0800" stop="20250106195600 +0800">
+		<title lang="zh">23_与凤行</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -82985,6 +82994,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250106182800 +0800" stop="20250106191300 +0800">
 		<title lang="zh">47_十送红军</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250106191300 +0800" stop="20250106195900 +0800">
+		<title lang="zh">48_十送红军</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -83340,6 +83352,9 @@
 	<programme channel="newtv怡伴健康" start="20250106183200 +0800" stop="20250106191400 +0800">
 		<title lang="zh">第四场 北京源莱慧vs山东好哥哥 第5局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250106191400 +0800" stop="20250106194400 +0800">
+		<title lang="zh">【推广】十二生肖酒 30分钟版本</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -83540,6 +83555,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250106183700 +0800" stop="20250106190300 +0800">
 		<title lang="zh">军营年味别样浓 海防前哨的会餐计划</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250106190300 +0800" stop="20250106192800 +0800">
+		<title lang="zh">军营年味别样浓 家乡味道抚人心</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -83748,6 +83766,9 @@
 	<programme channel="newtv惊悚悬疑" start="20250106173800 +0800" stop="20250106190800 +0800">
 		<title lang="zh">一号化妆间</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250106190800 +0800" stop="20250106193800 +0800">
+		<title lang="zh">《花样人生》推荐第二期</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -83804,6 +83825,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250106183300 +0800" stop="20250106191300 +0800">
 		<title lang="zh">QK纳通片特殊膳食食品（下单立减50）-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250106191300 +0800" stop="20250106204800 +0800">
+		<title lang="zh">非遗里的中国第2季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -83954,6 +83978,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250106183900 +0800" stop="20250106190900 +0800">
 		<title lang="zh">《花样人生》推荐第二期</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250106190900 +0800" stop="20250106195700 +0800">
+		<title lang="zh">18_雪中悍刀行</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
