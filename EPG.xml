@@ -83259,6 +83259,12 @@
 	<programme channel="newtv金牌综艺" start="20250106150700 +0800" stop="20250106163500 +0800">
 		<title lang="zh">金牌喜剧班</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20250106140000 +0800" stop="20250106150700 +0800">
+		<title lang="zh">势均力敌的我们</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250106150700 +0800" stop="20250106163500 +0800">
+		<title lang="zh">金牌喜剧班</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
