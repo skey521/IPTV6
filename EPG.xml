@@ -48681,6 +48681,9 @@
 	<programme channel="newtv超级电视剧" start="20250107043000 +0800" stop="20250107051600 +0800">
 		<title lang="zh">13_香山叶正红</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250107051600 +0800" stop="20250107060100 +0800">
+		<title lang="zh">14_香山叶正红</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -48731,6 +48734,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250107043000 +0800" stop="20250107050700 +0800">
 		<title lang="zh">共和国医者：孔祥涛 杨绚</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250107050700 +0800" stop="20250107054000 +0800">
+		<title lang="zh">共和国医者：于中麟 钱元福</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -48936,6 +48942,9 @@
 	<programme channel="newtv军事评论" start="20250107044500 +0800" stop="20250107051100 +0800">
 		<title lang="zh">台当局计划成立“自主紧急应变队” 澳增投百亿扩建海军</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250107051100 +0800" stop="20250107053600 +0800">
+		<title lang="zh">俄军发起多路攻势继续推进 乌称不能“入约”就造核弹</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -48965,6 +48974,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250107045500 +0800" stop="20250107051100 +0800">
 		<title lang="zh">笑纳-李萍（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250107051100 +0800" stop="20250107053700 +0800">
+		<title lang="zh">被辞退的孕妇（20240101）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -49076,6 +49088,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250107043800 +0800" stop="20250107051500 +0800">
 		<title lang="zh">女子南拳决赛</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250107051500 +0800" stop="20250107063500 +0800">
+		<title lang="zh">女子太极剑决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
