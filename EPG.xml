@@ -50223,6 +50223,9 @@
 	<programme channel="newtv超级电影" start="20250108014100 +0800" stop="20250108031500 +0800">
 		<title lang="zh">见习女警</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250108031500 +0800" stop="20250108044400 +0800">
+		<title lang="zh">黑色1847</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -50237,6 +50240,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250108022600 +0800" stop="20250108030500 +0800">
 		<title lang="zh">07_初婚</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250108030500 +0800" stop="20250108034400 +0800">
+		<title lang="zh">08_初婚</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50270,6 +50276,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250108021700 +0800" stop="20250108030700 +0800">
 		<title lang="zh">第二集 转型之路</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250108030700 +0800" stop="20250108035700 +0800">
+		<title lang="zh">第三集 决策之智</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -50325,6 +50334,9 @@
 	<programme channel="newtv热播精选" start="20250108022400 +0800" stop="20250108031000 +0800">
 		<title lang="zh">36_新居之约</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250108031000 +0800" stop="20250108035600 +0800">
+		<title lang="zh">37_新居之约</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -50349,6 +50361,9 @@
 	<programme channel="newtv动作电影" start="20250108020200 +0800" stop="20250108031000 +0800">
 		<title lang="zh">封神之九曲黄河阵</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250108031000 +0800" stop="20250108044700 +0800">
+		<title lang="zh">敦刻尔克行动</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -50363,6 +50378,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250108022000 +0800" stop="20250108030600 +0800">
 		<title lang="zh">13_我的爱对你说</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250108030600 +0800" stop="20250108033300 +0800">
+		<title lang="zh">自然回归——修复泥炭地（上）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -50412,6 +50430,9 @@
 	<programme channel="newtv炫舞未来" start="20250108030000 +0800" stop="20250108030800 +0800">
 		<title lang="zh">我不管-金洋（完整）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250108031100 +0800" stop="20250108031900 +0800">
+		<title lang="zh">迷迭香-金洋（完整）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -50420,6 +50441,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250108020100 +0800" stop="20250108030800 +0800">
 		<title lang="zh">现在就出发第2季</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250108030800 +0800" stop="20250108035400 +0800">
+		<title lang="zh">08_上海滩生死较量</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
