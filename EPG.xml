@@ -41022,6 +41022,9 @@
 	<programme channel="纯享4K" start="20250108043400 +0800" stop="20250108051300 +0800">
 		<title lang="zh">远方的家4K 长江行 海纳百川大上海</title>
 	</programme>
+	<programme channel="纯享4K" start="20250108051300 +0800" stop="20250108051800 +0800">
+		<title lang="zh">美丽中国自然4K 小小世界的故事系列 苔中巨人</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -50619,6 +50622,9 @@
 	<programme channel="newtv超级电视剧" start="20250108042900 +0800" stop="20250108051400 +0800">
 		<title lang="zh">18_香山叶正红</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250108051400 +0800" stop="20250108060000 +0800">
+		<title lang="zh">19_香山叶正红</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -50639,6 +50645,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250108042000 +0800" stop="20250108050500 +0800">
 		<title lang="zh">22_那年花开月正圆</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250108050500 +0800" stop="20250108054800 +0800">
+		<title lang="zh">23_那年花开月正圆</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -50691,6 +50700,9 @@
 	<programme channel="newtv古装剧场" start="20250108041700 +0800" stop="20250108050300 +0800">
 		<title lang="zh">43_天地姻缘七仙女</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250108050300 +0800" stop="20250108054900 +0800">
+		<title lang="zh">44_天地姻缘七仙女</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -50711,6 +50723,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250108042600 +0800" stop="20250108051100 +0800">
 		<title lang="zh">08_烽火英雄传</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250108051100 +0800" stop="20250108055600 +0800">
+		<title lang="zh">09_烽火英雄传</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -50774,6 +50789,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250108043000 +0800" stop="20250108051600 +0800">
 		<title lang="zh">27_千金保姆</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250108051600 +0800" stop="20250108064900 +0800">
+		<title lang="zh">冬之物语</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -50870,6 +50888,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250108043800 +0800" stop="20250108050300 +0800">
 		<title lang="zh">北约扩建黑海基地 美国打造“三北联动” 俄方称现已进入战争状态</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250108050300 +0800" stop="20250108052900 +0800">
+		<title lang="zh">台100吨级海巡艇抵太平岛 美日安保同盟迎最大规模升级</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -51002,6 +51023,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250108041200 +0800" stop="20250108051300 +0800">
 		<title lang="zh">男子长拳决赛</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250108051300 +0800" stop="20250108062200 +0800">
+		<title lang="zh">拳王资格挑战赛：阿赫马达利耶夫VS冈萨雷斯</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
