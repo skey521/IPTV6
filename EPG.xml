@@ -15282,6 +15282,12 @@
 	<programme channel="咪咕综合体育" start="20250109015500 +0800" stop="20250109033500 +0800">
 		<title lang="zh">足球世界-24/25赛季德甲 第15轮 拜仁慕尼黑-RB莱比锡</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250109033500 +0800" stop="20250109040000 +0800">
+		<title lang="zh">欧陆足球版图</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20250109040500 +0800" stop="20250109054500 +0800">
+		<title lang="zh">足球世界-24/25赛季西甲 第18轮 巴塞罗那-马德里竞技</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -37146,6 +37152,9 @@
 	<programme channel="纯享4K" start="20250109030500 +0800" stop="20250109032000 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 利菲河上的游泳比赛</title>
 	</programme>
+	<programme channel="纯享4K" start="20250109032000 +0800" stop="20250109040200 +0800">
+		<title lang="zh">远方的家4K 长江行 海派文化 历久弥新</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -44982,6 +44991,9 @@
 	<programme channel="黑莓动画" start="20250109025300 +0800" stop="20250109034200 +0800">
 		<title lang="zh">11_星辰变 第一季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250109034200 +0800" stop="20250109043000 +0800">
+		<title lang="zh">07_蓝色监狱</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -44990,6 +45002,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250109021300 +0800" stop="20250109035000 +0800">
 		<title lang="zh">顺天府奇案之血书案</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250109035000 +0800" stop="20250109051500 +0800">
+		<title lang="zh">美味侦探</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -45294,6 +45309,9 @@
 	<programme channel="newtv超级体育" start="20250109023000 +0800" stop="20250109040000 +0800">
 		<title lang="zh">实况录像-2024年世界田联钻石联赛 罗马站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250109040000 +0800" stop="20250109053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第10轮 利物浦-布赖顿</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -45305,6 +45323,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250109021400 +0800" stop="20250109034800 +0800">
 		<title lang="zh">守望相思树</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250109034800 +0800" stop="20250109051100 +0800">
+		<title lang="zh">老腔</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -45324,6 +45345,9 @@
 	<programme channel="newtv超级电视剧" start="20250109030500 +0800" stop="20250109035100 +0800">
 		<title lang="zh">22_香山叶正红</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250109035100 +0800" stop="20250109043600 +0800">
+		<title lang="zh">23_香山叶正红</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -45338,6 +45362,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250109025700 +0800" stop="20250109034300 +0800">
 		<title lang="zh">19_大秦帝国之纵横</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250109034300 +0800" stop="20250109042900 +0800">
+		<title lang="zh">20_大秦帝国之纵横</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -45360,6 +45387,9 @@
 	<programme channel="newtv精品纪录" start="20250109031100 +0800" stop="20250109040100 +0800">
 		<title lang="zh">第五集 未来已来</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250109040100 +0800" stop="20250109043000 +0800">
+		<title lang="zh">第5集：从世界到中国</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -45378,6 +45408,9 @@
 	<programme channel="newtv古装剧场" start="20250109031200 +0800" stop="20250109035900 +0800">
 		<title lang="zh">46_天地姻缘七仙女</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250109035900 +0800" stop="20250109044500 +0800">
+		<title lang="zh">47_天地姻缘七仙女</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -45392,6 +45425,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250109030700 +0800" stop="20250109035400 +0800">
 		<title lang="zh">29_壮丁也是兵</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250109035400 +0800" stop="20250109044100 +0800">
+		<title lang="zh">30_壮丁也是兵</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -45408,6 +45444,12 @@
 	<programme channel="newtv家庭剧场" start="20250109023400 +0800" stop="20250109032100 +0800">
 		<title lang="zh">07_小日子</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250109032100 +0800" stop="20250109040000 +0800">
+		<title lang="zh">14_永夜星河</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250109040000 +0800" stop="20250109044300 +0800">
+		<title lang="zh">15_永夜星河</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -45420,6 +45462,9 @@
 	<programme channel="newtv热播精选" start="20250109025600 +0800" stop="20250109034100 +0800">
 		<title lang="zh">03_加油！妈妈</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250109034100 +0800" stop="20250109042700 +0800">
+		<title lang="zh">04_加油！妈妈</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -45428,6 +45473,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250109023000 +0800" stop="20250109031600 +0800">
 		<title lang="zh">28_千金保姆</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250109031600 +0800" stop="20250109040200 +0800">
+		<title lang="zh">29_千金保姆</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -45459,6 +45507,9 @@
 	<programme channel="newtv怡伴健康" start="20250109030900 +0800" stop="20250109033600 +0800">
 		<title lang="zh">山间漫步</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250109033600 +0800" stop="20250109040400 +0800">
+		<title lang="zh">棕熊的秘密世界（上）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -45473,6 +45524,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250109023600 +0800" stop="20250109032200 +0800">
 		<title lang="zh">54_花谢花飞花满天</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250109032200 +0800" stop="20250109040800 +0800">
+		<title lang="zh">55_花谢花飞花满天</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -45501,6 +45555,9 @@
 	<programme channel="newtv军事评论" start="20250109031400 +0800" stop="20250109034100 +0800">
 		<title lang="zh">上新了 侦察分队装备</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250109034100 +0800" stop="20250109040700 +0800">
+		<title lang="zh">陆战急先锋 步兵战车</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -45528,6 +45585,9 @@
 	<programme channel="newtv精品综合" start="20250109021000 +0800" stop="20250109032000 +0800">
 		<title lang="zh">现在就出发第2季</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250109032000 +0800" stop="20250109040600 +0800">
+		<title lang="zh">12_上海滩生死较量</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -45536,6 +45596,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250109020500 +0800" stop="20250109034600 +0800">
 		<title lang="zh">怒火冲天</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250109034600 +0800" stop="20250109051900 +0800">
+		<title lang="zh">人口交易</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -45554,6 +45617,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250109021500 +0800" stop="20250109035300 +0800">
 		<title lang="zh">2024-25赛季德甲联赛第9轮：法兰克福VS波鸿</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250109035300 +0800" stop="20250109053400 +0800">
+		<title lang="zh">2024-25赛季法甲联赛第10轮：巴黎圣日耳曼VS朗斯</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
