@@ -23013,6 +23013,9 @@
 	<programme channel="动作电影" start="20250108184200 +0800" stop="20250108191200 +0800">
 		<title lang="zh">《花样人生》推荐第五期</title>
 	</programme>
+	<programme channel="动作电影" start="20250108191200 +0800" stop="20250108205900 +0800">
+		<title lang="zh">醉后一拳</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -62649,6 +62652,9 @@
 	<programme channel="爱情喜剧" start="20250108183600 +0800" stop="20250108190600 +0800">
 		<title lang="zh">【推广】十二生肖酒 30分钟版本</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250108190600 +0800" stop="20250108194800 +0800">
+		<title lang="zh">33_创业年代</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -68714,6 +68720,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250108185400 +0800" stop="20250108190900 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 休息的拳击手</title>
+	</programme>
+	<programme channel="纯享4K" start="20250108190900 +0800" stop="20250108192400 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 江村渔乐图</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -83637,6 +83646,9 @@
 	<programme channel="黑莓动画" start="20250108185500 +0800" stop="20250108190900 +0800">
 		<title lang="zh">03_咖宝车神第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250108190900 +0800" stop="20250108192300 +0800">
+		<title lang="zh">04_咖宝车神第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -85170,6 +85182,9 @@
 	<programme channel="newtv热播精选" start="20250108182900 +0800" stop="20250108191000 +0800">
 		<title lang="zh">38_西出玉门</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250108191000 +0800" stop="20250108194000 +0800">
+		<title lang="zh">《花样人生》推荐第五期</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -85239,6 +85254,9 @@
 	<programme channel="newtv爱情喜剧" start="20250108183600 +0800" stop="20250108190600 +0800">
 		<title lang="zh">【推广】十二生肖酒 30分钟版本</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250108190600 +0800" stop="20250108194800 +0800">
+		<title lang="zh">33_创业年代</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -85286,6 +85304,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250108184200 +0800" stop="20250108191200 +0800">
 		<title lang="zh">《花样人生》推荐第五期</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250108191200 +0800" stop="20250108205900 +0800">
+		<title lang="zh">醉后一拳</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -85376,6 +85397,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250108182400 +0800" stop="20250108190600 +0800">
 		<title lang="zh">胜区决赛 山西浪人秦vs山东好哥哥 第6局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250108190600 +0800" stop="20250108193600 +0800">
+		<title lang="zh">【推广】十二生肖酒 30分钟版本</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -85574,6 +85598,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250108185000 +0800" stop="20250108191600 +0800">
 		<title lang="zh">雪域高原的美丽相见</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250108191600 +0800" stop="20250108194100 +0800">
+		<title lang="zh">战位上的美食</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -85973,6 +86000,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250108183900 +0800" stop="20250108190900 +0800">
 		<title lang="zh">《花样人生》推荐第五期</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250108190900 +0800" stop="20250108195700 +0800">
+		<title lang="zh">28_雪中悍刀行</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
