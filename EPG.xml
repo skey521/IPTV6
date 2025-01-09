@@ -23235,6 +23235,9 @@
 	<programme channel="动作电影" start="20250109183600 +0800" stop="20250109190600 +0800">
 		<title lang="zh">《花样人生》推荐第十一期</title>
 	</programme>
+	<programme channel="动作电影" start="20250109190600 +0800" stop="20250109212000 +0800">
+		<title lang="zh">龙与地下城：侠盗荣耀</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -62871,6 +62874,9 @@
 	<programme channel="爱情喜剧" start="20250109181600 +0800" stop="20250109184600 +0800">
 		<title lang="zh">【推广】十二生肖酒 30分钟版本</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250109184600 +0800" stop="20250109192000 +0800">
+		<title lang="zh">02_萌妻食神</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -68865,6 +68871,9 @@
 	<programme channel="纯享4K" start="20250109182700 +0800" stop="20250109185700 +0800">
 		<title lang="zh">寻古中国4K 古蜀记b7再续华彩</title>
 	</programme>
+	<programme channel="纯享4K" start="20250109191200 +0800" stop="20250109195400 +0800">
+		<title lang="zh">远方的家4K 长江行 海派文化 历久弥新</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -73292,6 +73301,9 @@
 	</programme>
 	<programme channel="超级电影" start="20250109175600 +0800" stop="20250109190700 +0800">
 		<title lang="zh">电影《夺命巨鳄》</title>
+	</programme>
+	<programme channel="超级电影" start="20250109190700 +0800" stop="20250109201600 +0800">
+		<title lang="zh">电影《毒战生死线》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -83331,6 +83343,9 @@
 	<programme channel="黑莓动画" start="20250109184000 +0800" stop="20250109185400 +0800">
 		<title lang="zh">08_龙战士星源</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250109190700 +0800" stop="20250109192100 +0800">
+		<title lang="zh">06_咖宝车神第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -84342,6 +84357,9 @@
 	<programme channel="newtv超级电影" start="20250109175600 +0800" stop="20250109190700 +0800">
 		<title lang="zh">电影《夺命巨鳄》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250109190700 +0800" stop="20250109201600 +0800">
+		<title lang="zh">电影《毒战生死线》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -84500,6 +84518,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250109183600 +0800" stop="20250109190600 +0800">
 		<title lang="zh">《花样人生》推荐第十一期</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250109190600 +0800" stop="20250109194600 +0800">
+		<title lang="zh">37_与凤行</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -84750,6 +84771,9 @@
 	<programme channel="newtv军旅剧场" start="20250109180300 +0800" stop="20250109184900 +0800">
 		<title lang="zh">08_潜行者</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250109184900 +0800" stop="20250109193400 +0800">
+		<title lang="zh">09_潜行者</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -84897,6 +84921,9 @@
 	<programme channel="newtv热播精选" start="20250109181600 +0800" stop="20250109190200 +0800">
 		<title lang="zh">04_在暴雪时分</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250109190200 +0800" stop="20250109194700 +0800">
+		<title lang="zh">05_在暴雪时分</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -84963,6 +84990,9 @@
 	<programme channel="newtv爱情喜剧" start="20250109181600 +0800" stop="20250109184600 +0800">
 		<title lang="zh">【推广】十二生肖酒 30分钟版本</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250109184600 +0800" stop="20250109192000 +0800">
+		<title lang="zh">02_萌妻食神</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -85010,6 +85040,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250109183600 +0800" stop="20250109190600 +0800">
 		<title lang="zh">《花样人生》推荐第十一期</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250109190600 +0800" stop="20250109212000 +0800">
+		<title lang="zh">龙与地下城：侠盗荣耀</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -85103,6 +85136,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250109182500 +0800" stop="20250109190100 +0800">
 		<title lang="zh">败区决赛 湖南星火燎原vs山西浪人秦 第5局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250109190100 +0800" stop="20250109193100 +0800">
+		<title lang="zh">【推广】十二生肖酒 30分钟版本</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -85299,6 +85335,9 @@
 	<programme channel="newtv军事评论" start="20250109183300 +0800" stop="20250109185800 +0800">
 		<title lang="zh">上天下海的巾帼力量</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250109185800 +0800" stop="20250109192400 +0800">
+		<title lang="zh">情定蔚蓝大海</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -85373,6 +85412,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250109181000 +0800" stop="20250109191000 +0800">
 		<title lang="zh">六旬大爷初登场魅力十足，引得女嘉宾纷纷表白</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250109191000 +0800" stop="20250109200600 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -85578,6 +85620,9 @@
 	<programme channel="newtv精品体育" start="20250109172300 +0800" stop="20250109191600 +0800">
 		<title lang="zh">2024中国网球公开赛男单半决赛：辛纳VS布云朝克特</title>
 	</programme>
+	<programme channel="newtv精品体育" start="20250109191600 +0800" stop="20250109210100 +0800">
+		<title lang="zh">2024年足协杯决赛：山东泰山VS上海海港</title>
+	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
 	</channel>
@@ -85685,6 +85730,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250109180900 +0800" stop="20250109185600 +0800">
 		<title lang="zh">32_雪中悍刀行</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250109185600 +0800" stop="20250109192600 +0800">
+		<title lang="zh">《花样人生》推荐第十一期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
