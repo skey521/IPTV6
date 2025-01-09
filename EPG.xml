@@ -90,6 +90,9 @@
 	<programme channel="4K综艺" start="20250109132900 +0800" stop="20250109150300 +0800">
 		<title lang="zh">我最爱的女人们20190712</title>
 	</programme>
+	<programme channel="4K综艺" start="20250109150300 +0800" stop="20250109155300 +0800">
+		<title lang="zh">我最爱的女人们20190713</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -45543,6 +45546,9 @@
 	<programme channel="明星大片" start="20250109144300 +0800" stop="20250109150700 +0800">
 		<title lang="zh">10_间谍过家家</title>
 	</programme>
+	<programme channel="明星大片" start="20250109150700 +0800" stop="20250109154700 +0800">
+		<title lang="zh">QK纳通片特殊膳食食品（下单立减50）-渠道（右）</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -73137,6 +73143,9 @@
 	<programme channel="超级电影" start="20250109133400 +0800" stop="20250109151400 +0800">
 		<title lang="zh">电影《音乐永不停歇》</title>
 	</programme>
+	<programme channel="超级电影" start="20250109151400 +0800" stop="20250109162600 +0800">
+		<title lang="zh">电影《最后的武林》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -84003,6 +84012,9 @@
 	<programme channel="newtv超级综艺" start="20250109134900 +0800" stop="20250109150200 +0800">
 		<title lang="zh">开门迎春晚</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250109150200 +0800" stop="20250109161900 +0800">
+		<title lang="zh">向幸福出发</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -84084,6 +84096,9 @@
 	<programme channel="newtv超级电影" start="20250109133400 +0800" stop="20250109151400 +0800">
 		<title lang="zh">电影《音乐永不停歇》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250109151400 +0800" stop="20250109162600 +0800">
+		<title lang="zh">电影《最后的武林》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -84146,6 +84161,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250109143000 +0800" stop="20250109151500 +0800">
 		<title lang="zh">25_公诉</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250109151500 +0800" stop="20250109160000 +0800">
+		<title lang="zh">26_公诉</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -84288,6 +84306,9 @@
 	<programme channel="newtv精品纪录" start="20250109142200 +0800" stop="20250109150200 +0800">
 		<title lang="zh">QK纳通片特殊膳食食品（下单立减50）-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250109150200 +0800" stop="20250109152800 +0800">
+		<title lang="zh">02_赌城危局</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -84410,6 +84431,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250109142800 +0800" stop="20250109151500 +0800">
 		<title lang="zh">30_勇敢的心2</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250109151500 +0800" stop="20250109160100 +0800">
+		<title lang="zh">03_梅花红桃</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -84852,6 +84876,9 @@
 	<programme channel="newtv军事评论" start="20250109144400 +0800" stop="20250109151000 +0800">
 		<title lang="zh">美军搬出超级导弹 为何难打硬仗？</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250109151000 +0800" stop="20250109153500 +0800">
+		<title lang="zh">美日议员致函两国领导人 美日议员推“强硬外交手段维持台海现状”</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -84971,6 +84998,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250109144300 +0800" stop="20250109150700 +0800">
 		<title lang="zh">10_间谍过家家</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250109150700 +0800" stop="20250109154700 +0800">
+		<title lang="zh">QK纳通片特殊膳食食品（下单立减50）-渠道（右）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -85169,6 +85199,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250109142300 +0800" stop="20250109151100 +0800">
 		<title lang="zh">43_有翡</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250109151100 +0800" stop="20250109160100 +0800">
+		<title lang="zh">44_有翡</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
