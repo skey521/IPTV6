@@ -99,6 +99,9 @@
 	<programme channel="4K综艺" start="20250110134100 +0800" stop="20250110150600 +0800">
 		<title lang="zh">奇兵神犬20171201</title>
 	</programme>
+	<programme channel="4K综艺" start="20250110150600 +0800" stop="20250110163100 +0800">
+		<title lang="zh">奇兵神犬20171215</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -61032,6 +61035,9 @@
 	<programme channel="爱情喜剧" start="20250110141500 +0800" stop="20250110150200 +0800">
 		<title lang="zh">Vigray墨脱石多功能养生锅-渠道（右）</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250110150200 +0800" stop="20250110153400 +0800">
+		<title lang="zh">05_萌妻食神</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -66911,6 +66917,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250110141600 +0800" stop="20250110150600 +0800">
 		<title lang="zh">航拍中国4K第四季 第10集 辽宁</title>
+	</programme>
+	<programme channel="纯享4K" start="20250110150600 +0800" stop="20250110154600 +0800">
+		<title lang="zh">探索b7发现4K 探秘三星堆 第10集</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -82044,6 +82053,9 @@
 	<programme channel="newtv超级电视剧" start="20250110143400 +0800" stop="20250110151900 +0800">
 		<title lang="zh">29_公诉</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250110151900 +0800" stop="20250110160400 +0800">
+		<title lang="zh">30_公诉</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -82106,6 +82118,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250110142300 +0800" stop="20250110150600 +0800">
 		<title lang="zh">14_溏心风暴3（粤语版）</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250110150600 +0800" stop="20250110154800 +0800">
+		<title lang="zh">15_溏心风暴3（粤语版）</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -82422,6 +82437,9 @@
 	<programme channel="newtv热播精选" start="20250110142900 +0800" stop="20250110151400 +0800">
 		<title lang="zh">33_潜行者</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250110151400 +0800" stop="20250110160100 +0800">
+		<title lang="zh">34_潜行者</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -82475,6 +82493,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250110141500 +0800" stop="20250110150200 +0800">
 		<title lang="zh">Vigray墨脱石多功能养生锅-渠道（右）</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250110150200 +0800" stop="20250110153400 +0800">
+		<title lang="zh">05_萌妻食神</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -82734,6 +82755,9 @@
 	<programme channel="newtv军事评论" start="20250110144000 +0800" stop="20250110150600 +0800">
 		<title lang="zh">美菲增兵南海 中国绝不纵容</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250110150600 +0800" stop="20250110153100 +0800">
+		<title lang="zh">拜登派高官访华 台湾问题怎么谈？</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -82793,6 +82817,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250110144400 +0800" stop="20250110151000 +0800">
 		<title lang="zh">藏病的姻缘（20240104）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250110151000 +0800" stop="20250110155000 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -83051,6 +83078,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250110141300 +0800" stop="20250110150100 +0800">
 		<title lang="zh">47_有翡</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250110150100 +0800" stop="20250110155100 +0800">
+		<title lang="zh">48_有翡</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
