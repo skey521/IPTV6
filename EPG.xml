@@ -54,6 +54,9 @@
 	<programme channel="4K综艺" start="20250111014200 +0800" stop="20250111030200 +0800">
 		<title lang="zh">小小的追球20200114</title>
 	</programme>
+	<programme channel="4K综艺" start="20250111030200 +0800" stop="20250111043400 +0800">
+		<title lang="zh">妻子的浪漫旅行第三季20191225</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -15107,6 +15110,9 @@
 	</programme>
 	<programme channel="咪咕综合体育" start="20250111022500 +0800" stop="20250111031500 +0800">
 		<title lang="zh">欧陆足球版图</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20250111031500 +0800" stop="20250111055000 +0800">
+		<title lang="zh">足球世界-24/25赛季德甲 第16轮 多特蒙德-勒沃库森 直播</title>
 	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
@@ -42738,6 +42744,9 @@
 	<programme channel="黑莓电影" start="20250111014000 +0800" stop="20250111030800 +0800">
 		<title lang="zh">大陆酒店</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250111030800 +0800" stop="20250111045300 +0800">
+		<title lang="zh">相棒：X-DAY</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -43074,6 +43083,9 @@
 	<programme channel="newtv超级电视剧" start="20250111023600 +0800" stop="20250111031500 +0800">
 		<title lang="zh">26_初婚</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250111031500 +0800" stop="20250111040000 +0800">
+		<title lang="zh">01_我哥我嫂</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -43151,6 +43163,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250111022000 +0800" stop="20250111030700 +0800">
 		<title lang="zh">15_小日子</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250111030700 +0800" stop="20250111035000 +0800">
+		<title lang="zh">21_永夜星河</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -43257,6 +43272,9 @@
 	<programme channel="newtv炫舞未来" start="20250111025700 +0800" stop="20250111031600 +0800">
 		<title lang="zh">全是爱—毕刚（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250111031600 +0800" stop="20250111032600 +0800">
+		<title lang="zh">彩虹节拍-璞玉</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -43277,6 +43295,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250111014200 +0800" stop="20250111031200 +0800">
 		<title lang="zh">危险元素</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250111031200 +0800" stop="20250111051000 +0800">
+		<title lang="zh">夺命枪火</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -43343,6 +43364,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250111014700 +0800" stop="20250111031400 +0800">
 		<title lang="zh">侠探锦毛鼠之鹧鸪天</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250111031400 +0800" stop="20250111044200 +0800">
+		<title lang="zh">锦衣卫之初露锋芒</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
