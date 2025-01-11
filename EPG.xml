@@ -62181,6 +62181,9 @@
 	<programme channel="爱情喜剧" start="20250111212500 +0800" stop="20250111231500 +0800">
 		<title lang="zh">铁猴子传奇之边城困兽</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250111231500 +0800" stop="20250111000400 +0800">
+		<title lang="zh">美康利健激光前列腺治疗仪-渠道（右）</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -68066,6 +68069,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250111225100 +0800" stop="20250111231500 +0800">
 		<title lang="zh">了不起的冬天4K 第2集 默契</title>
+	</programme>
+	<programme channel="纯享4K" start="20250111231500 +0800" stop="20250111235500 +0800">
+		<title lang="zh">探索b7发现4K 探秘云梦古墓（1）</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -83658,6 +83664,9 @@
 	<programme channel="newtv精品纪录" start="20250111222400 +0800" stop="20250111231300 +0800">
 		<title lang="zh">03_明与暗</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250111231300 +0800" stop="20250111000300 +0800">
+		<title lang="zh">04_杀仁</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -83946,6 +83955,9 @@
 	<programme channel="newtv家庭剧场" start="20250111222500 +0800" stop="20250111230900 +0800">
 		<title lang="zh">40_独生子女的婆婆妈妈</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250111230900 +0800" stop="20250111235500 +0800">
+		<title lang="zh">01_故乡，别来无恙</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -84113,6 +84125,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250111212500 +0800" stop="20250111231500 +0800">
 		<title lang="zh">铁猴子传奇之边城困兽</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250111231500 +0800" stop="20250111000400 +0800">
+		<title lang="zh">美康利健激光前列腺治疗仪-渠道（右）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -84287,6 +84302,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250111223200 +0800" stop="20250111230200 +0800">
 		<title lang="zh">《花样人生》推荐第十二期</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250111230200 +0800" stop="20250111002000 +0800">
+		<title lang="zh">乡约：爱吃肉的草原姑娘相亲记</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -84528,6 +84546,9 @@
 	<programme channel="newtv军事评论" start="20250111224900 +0800" stop="20250111231100 +0800">
 		<title lang="zh">轰炸鲁昂（下）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250111231100 +0800" stop="20250111233300 +0800">
+		<title lang="zh">二战空袭大揭秘（一）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -84647,6 +84668,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250111225600 +0800" stop="20250111231500 +0800">
 		<title lang="zh">你要跳舞吗-毕刚</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250111231500 +0800" stop="20250111001300 +0800">
+		<title lang="zh">喜欢旅行的姚保兴希望找一个能够共同奋斗的姑娘（20241112）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
