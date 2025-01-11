@@ -81975,6 +81975,9 @@
 	<programme channel="黑莓动画" start="20250111144100 +0800" stop="20250111150700 +0800">
 		<title lang="zh">100_笨蛋波波与小宝</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250111151100 +0800" stop="20250111152700 +0800">
+		<title lang="zh">捉迷藏游戏 揍飞机械兽不算什么甲龙一心要找魔术菇</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -83184,6 +83187,9 @@
 	<programme channel="newtv精品纪录" start="20250111145000 +0800" stop="20250111151400 +0800">
 		<title lang="zh">04_王的女人</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250111151400 +0800" stop="20250111160400 +0800">
+		<title lang="zh">01_斗转星移</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -83243,6 +83249,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250111142000 +0800" stop="20250111150800 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250111150800 +0800" stop="20250111155400 +0800">
+		<title lang="zh">04_春闺梦里人</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -83369,6 +83378,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250111141500 +0800" stop="20250111150100 +0800">
 		<title lang="zh">24_失笑</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250111150100 +0800" stop="20250111155700 +0800">
+		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -83738,6 +83750,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250111144500 +0800" stop="20250111151000 +0800">
 		<title lang="zh">柯文哲案有反复 台北检方提出抗告</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250111151000 +0800" stop="20250111153600 +0800">
+		<title lang="zh">“大法官”提名最烂 赖清德包藏祸心</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
