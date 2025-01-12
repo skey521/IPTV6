@@ -61602,6 +61602,9 @@
 	<programme channel="爱情喜剧" start="20250112141600 +0800" stop="20250112150500 +0800">
 		<title lang="zh">美康利健激光前列腺治疗仪-渠道（右）</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250112150500 +0800" stop="20250112154400 +0800">
+		<title lang="zh">17_萌妻食神</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -81963,6 +81966,9 @@
 	<programme channel="黑莓电影" start="20250112133700 +0800" stop="20250112150900 +0800">
 		<title lang="zh">妈妈你真棒</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250112150900 +0800" stop="20250112164800 +0800">
+		<title lang="zh">第十四个目标</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -83364,6 +83370,9 @@
 	<programme channel="newtv热播精选" start="20250112143300 +0800" stop="20250112150900 +0800">
 		<title lang="zh">04_双探</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250112150900 +0800" stop="20250112154800 +0800">
+		<title lang="zh">05_双探</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -83420,6 +83429,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250112141600 +0800" stop="20250112150500 +0800">
 		<title lang="zh">美康利健激光前列腺治疗仪-渠道（右）</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250112150500 +0800" stop="20250112154400 +0800">
+		<title lang="zh">17_萌妻食神</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -83525,6 +83537,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250112143700 +0800" stop="20250112150300 +0800">
 		<title lang="zh">难圆的母亲梦</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250112150300 +0800" stop="20250112155200 +0800">
+		<title lang="zh">Bertrand无涂层不粘钛炒锅-渠道（右）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -83744,6 +83759,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250112144600 +0800" stop="20250112151300 +0800">
 		<title lang="zh">网络寻人吃官司（20221007）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250112151300 +0800" stop="20250112154000 +0800">
+		<title lang="zh">惹事的照片（20221006）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
