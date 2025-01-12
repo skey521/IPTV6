@@ -22962,6 +22962,9 @@
 	<programme channel="动作电影" start="20250112175300 +0800" stop="20250112191000 +0800">
 		<title lang="zh">致命玩家</title>
 	</programme>
+	<programme channel="动作电影" start="20250112191000 +0800" stop="20250112194000 +0800">
+		<title lang="zh">《花样人生》推荐第十二期</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -44504,6 +44507,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250112175400 +0800" stop="20250112190600 +0800">
 		<title lang="zh">艾嘉食堂</title>
+	</programme>
+	<programme channel="明星大片" start="20250112190600 +0800" stop="20250112195400 +0800">
+		<title lang="zh">Bertrand无涂层不粘钛炒锅-渠道（右）</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -67707,6 +67713,9 @@
 	<programme channel="纯享4K" start="20250112190100 +0800" stop="20250112191600 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 便桥会盟图</title>
 	</programme>
+	<programme channel="纯享4K" start="20250112191600 +0800" stop="20250112195800 +0800">
+		<title lang="zh">远方的家4K 大运河（19） 航行在苏南运河</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -82266,6 +82275,9 @@
 	<programme channel="黑莓动画" start="20250112185200 +0800" stop="20250112190600 +0800">
 		<title lang="zh">11_咖宝车神第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250112190600 +0800" stop="20250112192000 +0800">
+		<title lang="zh">12_咖宝车神第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -83238,6 +83250,9 @@
 	<programme channel="newtv超级体育" start="20250112180000 +0800" stop="20250112190500 +0800">
 		<title lang="zh">体育新闻</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250112190500 +0800" stop="20250112193000 +0800">
+		<title lang="zh">实况录像-2024年世界泳联短池游泳锦标赛 4</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -83360,6 +83375,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250112182200 +0800" stop="20250112190600 +0800">
 		<title lang="zh">24_英雄使命</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250112190600 +0800" stop="20250112195000 +0800">
+		<title lang="zh">25_英雄使命</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -83691,6 +83709,9 @@
 	<programme channel="newtv军旅剧场" start="20250112181700 +0800" stop="20250112190200 +0800">
 		<title lang="zh">18_潜行者</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250112190200 +0800" stop="20250112194800 +0800">
+		<title lang="zh">19_潜行者</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -83765,6 +83786,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250112183400 +0800" stop="20250112190400 +0800">
 		<title lang="zh">【推广】十二生肖酒 30分钟版本</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250112190400 +0800" stop="20250112195100 +0800">
+		<title lang="zh">31_失笑</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -83961,6 +83985,9 @@
 	<programme channel="newtv动作电影" start="20250112175300 +0800" stop="20250112191000 +0800">
 		<title lang="zh">致命玩家</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250112191000 +0800" stop="20250112194000 +0800">
+		<title lang="zh">《花样人生》推荐第十二期</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -84051,6 +84078,9 @@
 	<programme channel="newtv怡伴健康" start="20250112185800 +0800" stop="20250112191200 +0800">
 		<title lang="zh">辽宁智慧斗vs湖南名将 第7局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250112191200 +0800" stop="20250112194200 +0800">
+		<title lang="zh">【推广】十二生肖酒 30分钟版本</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -84125,6 +84155,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250112181200 +0800" stop="20250112190100 +0800">
 		<title lang="zh">05_流水迢迢</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250112190100 +0800" stop="20250112194700 +0800">
+		<title lang="zh">06_流水迢迢</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -84248,6 +84281,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250112184300 +0800" stop="20250112190800 +0800">
 		<title lang="zh">“上天下水”的硬核“兵王”</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250112190800 +0800" stop="20250112193400 +0800">
+		<title lang="zh">追赶太阳的战士</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -84395,6 +84431,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250112175400 +0800" stop="20250112190600 +0800">
 		<title lang="zh">艾嘉食堂</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250112190600 +0800" stop="20250112195400 +0800">
+		<title lang="zh">Bertrand无涂层不粘钛炒锅-渠道（右）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -84644,6 +84683,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250112182300 +0800" stop="20250112190900 +0800">
 		<title lang="zh">09_庆余年</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250112190900 +0800" stop="20250112193900 +0800">
+		<title lang="zh">《花样人生》推荐第十二期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
