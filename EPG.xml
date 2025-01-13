@@ -35715,6 +35715,9 @@
 	<programme channel="纯享4K" start="20250114050000 +0800" stop="20250114050600 +0800">
 		<title lang="zh">美丽中国自然4K 云南德宏系列 花冠的新生活</title>
 	</programme>
+	<programme channel="纯享4K" start="20250114051100 +0800" stop="20250114060000 +0800">
+		<title lang="zh">大运河之歌4K 第3集 运河中心时代</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -43410,6 +43413,9 @@
 	<programme channel="黑莓动画" start="20250114042100 +0800" stop="20250114050600 +0800">
 		<title lang="zh">27_马达加斯加企鹅第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250114050600 +0800" stop="20250114055500 +0800">
+		<title lang="zh">21_葬送的芙莉莲</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -43713,6 +43719,9 @@
 	<programme channel="newtv超级综艺" start="20250114041200 +0800" stop="20250114050200 +0800">
 		<title lang="zh">勇者之战</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250114050200 +0800" stop="20250114061900 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -43763,6 +43772,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250114043000 +0800" stop="20250114051600 +0800">
 		<title lang="zh">17_我哥我嫂</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250114051600 +0800" stop="20250114060100 +0800">
+		<title lang="zh">18_我哥我嫂</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -43905,6 +43917,9 @@
 	<programme channel="newtv热播精选" start="20250114042400 +0800" stop="20250114051100 +0800">
 		<title lang="zh">28_加油！妈妈</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250114051100 +0800" stop="20250114055600 +0800">
+		<title lang="zh">29_加油！妈妈</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -44028,6 +44043,9 @@
 	<programme channel="newtv军事评论" start="20250114044100 +0800" stop="20250114050700 +0800">
 		<title lang="zh">抗震尖兵（下）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250114050700 +0800" stop="20250114053300 +0800">
+		<title lang="zh">排爆专家</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -44048,6 +44066,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250114035100 +0800" stop="20250114050400 +0800">
 		<title lang="zh">开门迎春晚（20250111）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250114050400 +0800" stop="20250114054200 +0800">
+		<title lang="zh">冬季五步护心法（20250102）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
