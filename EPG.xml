@@ -60681,6 +60681,9 @@
 	<programme channel="爱情喜剧" start="20250113141800 +0800" stop="20250113150700 +0800">
 		<title lang="zh">美康利健激光前列腺治疗仪-渠道（右）</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250113150700 +0800" stop="20250113154500 +0800">
+		<title lang="zh">22_萌妻食神</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -66440,6 +66443,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250113143900 +0800" stop="20250113150300 +0800">
 		<title lang="zh">了不起的冬天4K 第5集 刀尖之争</title>
+	</programme>
+	<programme channel="纯享4K" start="20250113150300 +0800" stop="20250113152800 +0800">
+		<title lang="zh">了不起的冬天4K 第6集 气喘吁吁</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -81285,6 +81291,9 @@
 	<programme channel="newtv精品纪录" start="20250113142200 +0800" stop="20250113150900 +0800">
 		<title lang="zh">美国RN原装进口鲨鱼神经酸-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250113150900 +0800" stop="20250113160000 +0800">
+		<title lang="zh">06_留取丹心照汗青</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -81408,6 +81417,9 @@
 	<programme channel="newtv军旅剧场" start="20250113141900 +0800" stop="20250113150500 +0800">
 		<title lang="zh">42_勇敢的心2</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250113150500 +0800" stop="20250113155300 +0800">
+		<title lang="zh">15_梅花红桃</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -81467,6 +81479,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250113141500 +0800" stop="20250113150100 +0800">
 		<title lang="zh">21_烟火人家</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250113150100 +0800" stop="20250113155700 +0800">
+		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -81575,6 +81590,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250113141800 +0800" stop="20250113150700 +0800">
 		<title lang="zh">美康利健激光前列腺治疗仪-渠道（右）</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250113150700 +0800" stop="20250113154500 +0800">
+		<title lang="zh">22_萌妻食神</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -81755,6 +81773,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250113141000 +0800" stop="20250113150600 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250113150600 +0800" stop="20250113155500 +0800">
+		<title lang="zh">29_隋唐英雄5之薛刚反唐</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -82187,6 +82208,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250113142000 +0800" stop="20250113150600 +0800">
 		<title lang="zh">08_三国机密</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250113150600 +0800" stop="20250113155200 +0800">
+		<title lang="zh">09_三国机密</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
