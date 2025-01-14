@@ -43314,6 +43314,9 @@
 	<programme channel="明星大片" start="20250114222100 +0800" stop="20250114230400 +0800">
 		<title lang="zh">14_我，喜欢你</title>
 	</programme>
+	<programme channel="明星大片" start="20250114230400 +0800" stop="20250114000500 +0800">
+		<title lang="zh">我的机器人同桌</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -66357,6 +66360,9 @@
 	<programme channel="纯享4K" start="20250114224300 +0800" stop="20250114230700 +0800">
 		<title lang="zh">了不起的冬天4K 第7集 跨界</title>
 	</programme>
+	<programme channel="纯享4K" start="20250114230700 +0800" stop="20250114233100 +0800">
+		<title lang="zh">了不起的冬天4K 第8集 小算盘</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -81978,6 +81984,9 @@
 	<programme channel="newtv精品纪录" start="20250114223700 +0800" stop="20250114230800 +0800">
 		<title lang="zh">2024匠心b7中国菜（5）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250114230800 +0800" stop="20250114233800 +0800">
+		<title lang="zh">乡味记（1）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -82173,6 +82182,9 @@
 	<programme channel="newtv军旅剧场" start="20250114222200 +0800" stop="20250114230700 +0800">
 		<title lang="zh">35_铁血玫瑰</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250114230700 +0800" stop="20250114235200 +0800">
+		<title lang="zh">36_铁血玫瑰</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -82265,6 +82277,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250114223100 +0800" stop="20250114231500 +0800">
 		<title lang="zh">14_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250114231500 +0800" stop="20250114235700 +0800">
+		<title lang="zh">15_故乡，别来无恙</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -82602,6 +82617,9 @@
 	<programme channel="newtv怡伴健康" start="20250114222800 +0800" stop="20250114231100 +0800">
 		<title lang="zh">山西清徐学栋vs湖南名将 第1局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250114231100 +0800" stop="20250114003000 +0800">
+		<title lang="zh">乡约：巴彦淖尔姑娘传承面精手艺</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -82848,6 +82866,9 @@
 	<programme channel="newtv军事评论" start="20250114224800 +0800" stop="20250114231000 +0800">
 		<title lang="zh">隔海炮战（下）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250114231000 +0800" stop="20250114233200 +0800">
+		<title lang="zh">战胜希特勒（上）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -82953,6 +82974,9 @@
 	<programme channel="newtv炫舞未来" start="20250114225700 +0800" stop="20250114001400 +0800">
 		<title lang="zh">中国传统手艺手影戏和手指舞的结合（20241116）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250114224400 +0800" stop="20250114232900 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -83039,6 +83063,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250114222100 +0800" stop="20250114230400 +0800">
 		<title lang="zh">14_我，喜欢你</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250114230400 +0800" stop="20250114000500 +0800">
+		<title lang="zh">我的机器人同桌</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
