@@ -65832,6 +65832,9 @@
 	<programme channel="纯享4K" start="20250115183300 +0800" stop="20250115190300 +0800">
 		<title lang="zh">寻古中国4K 玉石记b7古玉之谜</title>
 	</programme>
+	<programme channel="纯享4K" start="20250115190300 +0800" stop="20250115191800 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 敦煌壁画b7剑术组图</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -70472,6 +70475,9 @@
 	</programme>
 	<programme channel="超级电影" start="20250115175000 +0800" stop="20250115191400 +0800">
 		<title lang="zh">电影《公证人之大卫之死》</title>
+	</programme>
+	<programme channel="超级电影" start="20250115191400 +0800" stop="20250115210600 +0800">
+		<title lang="zh">电影《无人区》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -79893,6 +79899,9 @@
 	<programme channel="黑莓动画" start="20250115185200 +0800" stop="20250115190600 +0800">
 		<title lang="zh">18_咖宝车神第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250115190600 +0800" stop="20250115192100 +0800">
+		<title lang="zh">17_喜羊羊与灰太狼之发明大作战之二</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -80796,6 +80805,9 @@
 	<programme channel="newtv超级电影" start="20250115175000 +0800" stop="20250115191400 +0800">
 		<title lang="zh">电影《公证人之大卫之死》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250115191400 +0800" stop="20250115210600 +0800">
+		<title lang="zh">电影《无人区》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -81336,6 +81348,9 @@
 	<programme channel="newtv热播精选" start="20250115181600 +0800" stop="20250115190200 +0800">
 		<title lang="zh">28_在暴雪时分</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250115190200 +0800" stop="20250115193200 +0800">
+		<title lang="zh">《花样人生》推荐第十七期</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -81531,6 +81546,9 @@
 	<programme channel="newtv怡伴健康" start="20250115182900 +0800" stop="20250115190500 +0800">
 		<title lang="zh">山西清徐学栋vs湖南名将 第2局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250115190500 +0800" stop="20250115193500 +0800">
+		<title lang="zh">【推荐】雅德荣氨糖软骨素</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -81602,6 +81620,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250115182000 +0800" stop="20250115190600 +0800">
 		<title lang="zh">17_流水迢迢</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250115190600 +0800" stop="20250115195300 +0800">
+		<title lang="zh">18_流水迢迢</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -82130,6 +82151,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250115184000 +0800" stop="20250115191000 +0800">
 		<title lang="zh">《花样人生》推荐第十七期</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250115191000 +0800" stop="20250115195600 +0800">
+		<title lang="zh">21_庆余年</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
