@@ -83580,6 +83580,9 @@
 	<programme channel="黑莓动画" start="20250116145000 +0800" stop="20250116150800 +0800">
 		<title lang="zh">8豌豆射手的挑战 小鱼和小志化身特工心奇爆龙</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250116150800 +0800" stop="20250116155500 +0800">
+		<title lang="zh">47_大航海时代（上）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -83609,6 +83612,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250116132800 +0800" stop="20250116150200 +0800">
 		<title lang="zh">斗破苍穹b7觉醒</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250116150200 +0800" stop="20250116163100 +0800">
+		<title lang="zh">王庆典的春天</title>
 	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
@@ -84618,6 +84624,9 @@
 	<programme channel="newtv超级电视剧" start="20250116142500 +0800" stop="20250116151200 +0800">
 		<title lang="zh">13_九义人</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250116151200 +0800" stop="20250116155600 +0800">
+		<title lang="zh">14_九义人</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -84677,6 +84686,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250116141000 +0800" stop="20250116150600 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250116150600 +0800" stop="20250116155000 +0800">
+		<title lang="zh">38_溏心风暴3（粤语版）</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -84806,6 +84818,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250116141400 +0800" stop="20250116150200 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250116150200 +0800" stop="20250116154900 +0800">
+		<title lang="zh">29_春闺梦里人</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -84977,6 +84992,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250116142600 +0800" stop="20250116151000 +0800">
 		<title lang="zh">03_欢颜</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250116151000 +0800" stop="20250116160100 +0800">
+		<title lang="zh">04_欢颜</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -85272,6 +85290,9 @@
 	<programme channel="newtv军事评论" start="20250116144400 +0800" stop="20250116151000 +0800">
 		<title lang="zh">日本造航母压重兵 两岸应警惕</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250116151000 +0800" stop="20250116153600 +0800">
+		<title lang="zh">七成美国人不愿出兵 赖清德豁出去了</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -85346,6 +85367,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250116145500 +0800" stop="20250116151200 +0800">
 		<title lang="zh">野花香-孙爱迪</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250116151200 +0800" stop="20250116154000 +0800">
+		<title lang="zh">离家的新娘（20241023）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -85592,6 +85616,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250116143000 +0800" stop="20250116151500 +0800">
 		<title lang="zh">21_三国机密</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250116151500 +0800" stop="20250116160700 +0800">
+		<title lang="zh">22_三国机密</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
