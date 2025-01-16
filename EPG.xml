@@ -114,6 +114,9 @@
 	<programme channel="4K综艺" start="20250116213700 +0800" stop="20250116230200 +0800">
 		<title lang="zh">奇兵神犬20171208</title>
 	</programme>
+	<programme channel="4K综艺" start="20250116230200 +0800" stop="20250116000000 +0800">
+		<title lang="zh">奇兵神犬20171201</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -46029,6 +46032,9 @@
 	<programme channel="明星大片" start="20250116223700 +0800" stop="20250116231600 +0800">
 		<title lang="zh">20_我，喜欢你</title>
 	</programme>
+	<programme channel="明星大片" start="20250116231600 +0800" stop="20250116002400 +0800">
+		<title lang="zh">毒战生死线</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -63452,6 +63458,9 @@
 	</programme>
 	<programme channel="爱情喜剧" start="20250116223500 +0800" stop="20250116231200 +0800">
 		<title lang="zh">42_萌妻食神</title>
+	</programme>
+	<programme channel="爱情喜剧" start="20250116231200 +0800" stop="20250116000800 +0800">
+		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
@@ -83970,6 +83979,9 @@
 	<programme channel="黑莓动画" start="20250116224700 +0800" stop="20250116231100 +0800">
 		<title lang="zh">08_间谍过家家</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250116231100 +0800" stop="20250116233600 +0800">
+		<title lang="zh">06_斗破苍穹 第1季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -85203,6 +85215,9 @@
 	<programme channel="newtv精品大剧" start="20250116221400 +0800" stop="20250116230400 +0800">
 		<title lang="zh">50_大盛魁</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250116230400 +0800" stop="20250116235500 +0800">
+		<title lang="zh">51_大盛魁</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -85494,6 +85509,9 @@
 	<programme channel="newtv军旅剧场" start="20250116223100 +0800" stop="20250116231500 +0800">
 		<title lang="zh">04_警犬来啦</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250116231500 +0800" stop="20250116235900 +0800">
+		<title lang="zh">05_警犬来啦</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -85586,6 +85604,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250116222400 +0800" stop="20250116231100 +0800">
 		<title lang="zh">23_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250116231100 +0800" stop="20250116235500 +0800">
+		<title lang="zh">24_故乡，别来无恙</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -85748,6 +85769,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250116223500 +0800" stop="20250116231200 +0800">
 		<title lang="zh">42_萌妻食神</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250116231200 +0800" stop="20250116000800 +0800">
+		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -86142,6 +86166,9 @@
 	<programme channel="newtv军事评论" start="20250116224800 +0800" stop="20250116231000 +0800">
 		<title lang="zh">二战空袭大揭秘（七）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250116231000 +0800" stop="20250116233000 +0800">
+		<title lang="zh">二战空袭大揭秘（八）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -86250,6 +86277,9 @@
 	<programme channel="newtv炫舞未来" start="20250116225700 +0800" stop="20250116231300 +0800">
 		<title lang="zh">唱响新时代—毕刚（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250116231300 +0800" stop="20250116002300 +0800">
+		<title lang="zh">选对健康（20241227）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -86333,6 +86363,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250116223700 +0800" stop="20250116231600 +0800">
 		<title lang="zh">20_我，喜欢你</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250116231600 +0800" stop="20250116002400 +0800">
+		<title lang="zh">毒战生死线</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
