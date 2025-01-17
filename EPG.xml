@@ -23235,6 +23235,9 @@
 	<programme channel="动作电影" start="20250117183500 +0800" stop="20250117190500 +0800">
 		<title lang="zh">《花样人生》推荐第十六期</title>
 	</programme>
+	<programme channel="动作电影" start="20250117190500 +0800" stop="20250117203400 +0800">
+		<title lang="zh">扎职2：江湖陌路</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -42104,6 +42107,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20250117173300 +0800" stop="20250117191200 +0800">
 		<title lang="zh">黄庙村b7地宫美人</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20250117191200 +0800" stop="20250117194200 +0800">
+		<title lang="zh">《花样人生》推荐第十六期</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -68643,6 +68649,9 @@
 	<programme channel="纯享4K" start="20250117185000 +0800" stop="20250117190500 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 运动员进行曲</title>
 	</programme>
+	<programme channel="纯享4K" start="20250117190500 +0800" stop="20250117194600 +0800">
+		<title lang="zh">远方的家4K 大运河特辑（7） 穿“邢”运河越千年</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -82947,6 +82956,9 @@
 	<programme channel="黑莓动画" start="20250117185100 +0800" stop="20250117190600 +0800">
 		<title lang="zh">21_喜羊羊与灰太狼之发明大作战之二</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250117190600 +0800" stop="20250117192100 +0800">
+		<title lang="zh">22_喜羊羊与灰太狼之发明大作战之二</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -84060,6 +84072,9 @@
 	<programme channel="newtv精品大剧" start="20250117184400 +0800" stop="20250117191400 +0800">
 		<title lang="zh">《花样人生》推荐第十六期</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250117191400 +0800" stop="20250117195800 +0800">
+		<title lang="zh">07_女医明妃传</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -84372,6 +84387,9 @@
 	<programme channel="newtv家庭剧场" start="20250117183800 +0800" stop="20250117190800 +0800">
 		<title lang="zh">【推荐】雅德荣氨糖软骨素</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250117190800 +0800" stop="20250117195400 +0800">
+		<title lang="zh">17_父辈的荣耀</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -84554,6 +84572,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250117183500 +0800" stop="20250117190500 +0800">
 		<title lang="zh">《花样人生》推荐第十六期</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250117190500 +0800" stop="20250117203400 +0800">
+		<title lang="zh">扎职2：江湖陌路</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -85037,6 +85058,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250117173300 +0800" stop="20250117191200 +0800">
 		<title lang="zh">黄庙村b7地宫美人</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250117191200 +0800" stop="20250117194200 +0800">
+		<title lang="zh">《花样人生》推荐第十六期</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
