@@ -99,6 +99,9 @@
 	<programme channel="4K综艺" start="20250117220800 +0800" stop="20250117231300 +0800">
 		<title lang="zh">小小的追球20200121</title>
 	</programme>
+	<programme channel="4K综艺" start="20250117231300 +0800" stop="20250117000000 +0800">
+		<title lang="zh">小小的追球20200122</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -68736,6 +68739,9 @@
 	<programme channel="纯享4K" start="20250117224400 +0800" stop="20250117231100 +0800">
 		<title lang="zh">一带一路上的中国名片4K 第4集 贸易b7货行天下</title>
 	</programme>
+	<programme channel="纯享4K" start="20250117231100 +0800" stop="20250117235600 +0800">
+		<title lang="zh">传承b7智慧篇4K 第4集 火候之彩</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -84177,6 +84183,9 @@
 	<programme channel="newtv超级电视剧" start="20250117223600 +0800" stop="20250117231800 +0800">
 		<title lang="zh">08_兰闺喜事</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250117231800 +0800" stop="20250117235900 +0800">
+		<title lang="zh">09_兰闺喜事</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -84558,6 +84567,9 @@
 	<programme channel="newtv军旅剧场" start="20250117221700 +0800" stop="20250117230100 +0800">
 		<title lang="zh">07_警犬来啦</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250117230100 +0800" stop="20250117234600 +0800">
+		<title lang="zh">08_警犬来啦</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -84734,6 +84746,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250117220500 +0800" stop="20250117230500 +0800">
 		<title lang="zh">现在就出发</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250117230500 +0800" stop="20250117000100 +0800">
+		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -85215,6 +85230,9 @@
 	<programme channel="newtv军事评论" start="20250117225100 +0800" stop="20250117231300 +0800">
 		<title lang="zh">二战英国铁路</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250117231300 +0800" stop="20250117233500 +0800">
+		<title lang="zh">二战德国铁路</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -85319,6 +85337,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250117224700 +0800" stop="20250117230600 +0800">
 		<title lang="zh">你要跳舞吗-毕刚</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250117230600 +0800" stop="20250117002300 +0800">
+		<title lang="zh">非遗传承人陈尚上场 现场表演变脸绝活（20241228）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
