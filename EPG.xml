@@ -82287,6 +82287,9 @@
 	<programme channel="newtv超级体育" start="20250118120000 +0800" stop="20250118130500 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250118130500 +0800" stop="20250118132500 +0800">
+		<title lang="zh">艺术里的奥林匹克</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -82373,6 +82376,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250118123800 +0800" stop="20250118131700 +0800">
 		<title lang="zh">19_九义人</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250118131700 +0800" stop="20250118140000 +0800">
+		<title lang="zh">20_九义人</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -82593,6 +82599,9 @@
 	<programme channel="newtv军旅剧场" start="20250118122600 +0800" stop="20250118131300 +0800">
 		<title lang="zh">Vigray墨脱石多功能养生锅-渠道（右）</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250118131300 +0800" stop="20250118140400 +0800">
+		<title lang="zh">11_我姥爷1945之绝命枪</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -82643,6 +82652,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250118122100 +0800" stop="20250118130700 +0800">
 		<title lang="zh">39_烟火人家</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250118130700 +0800" stop="20250118135500 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -82817,6 +82829,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250118122200 +0800" stop="20250118130700 +0800">
 		<title lang="zh">29_兰桐花开</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250118130700 +0800" stop="20250118135800 +0800">
+		<title lang="zh">30_兰桐花开</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -83004,6 +83019,9 @@
 	<programme channel="newtv炫舞未来" start="20250118121500 +0800" stop="20250118130300 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250118130300 +0800" stop="20250118142000 +0800">
+		<title lang="zh">姐妹同心 未来可期 三姐妹热血献唱《战马》（20241026）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -83114,6 +83132,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250118122900 +0800" stop="20250118131900 +0800">
 		<title lang="zh">一笑一周</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250118131900 +0800" stop="20250118140800 +0800">
+		<title lang="zh">美康利健激光前列腺治疗仪-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
