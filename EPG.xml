@@ -28461,6 +28461,9 @@
 	<programme channel="咪咕综合体育" start="20250118214500 +0800" stop="20250118221000 +0800">
 		<title lang="zh">欧陆足球版图</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250118221500 +0800" stop="20250118000000 +0800">
+		<title lang="zh">足球世界-24/25赛季德甲 第18轮 拜仁慕尼黑-沃尔夫斯堡 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -81792,6 +81795,9 @@
 	<programme channel="黑莓动画" start="20250118214000 +0800" stop="20250118220600 +0800">
 		<title lang="zh">27_踢踢和奇奇之魔力课堂 第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250118220600 +0800" stop="20250118222100 +0800">
+		<title lang="zh">12_画江湖之不良人第1季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -82959,6 +82965,9 @@
 	<programme channel="newtv超级电视剧" start="20250118212800 +0800" stop="20250118220700 +0800">
 		<title lang="zh">11_兰闺喜事</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250118220700 +0800" stop="20250118224500 +0800">
+		<title lang="zh">12_兰闺喜事</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -83141,6 +83150,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250118212700 +0800" stop="20250118220200 +0800">
 		<title lang="zh">我的家乡菜b7亳州篇</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250118220200 +0800" stop="20250118224100 +0800">
+		<title lang="zh">家乡至味2022（6）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -83810,6 +83822,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250118211800 +0800" stop="20250118220600 +0800">
 		<title lang="zh">32_流水迢迢</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250118220600 +0800" stop="20250118223600 +0800">
+		<title lang="zh">《花样人生》推荐第十七期</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
