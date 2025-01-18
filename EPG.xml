@@ -81759,6 +81759,9 @@
 	<programme channel="黑莓动画" start="20250118205900 +0800" stop="20250118211200 +0800">
 		<title lang="zh">08_托宝战士之银河侦探1</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250118211200 +0800" stop="20250118211800 +0800">
+		<title lang="zh">06_官渡对峙</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -82998,6 +83001,9 @@
 	<programme channel="newtv精品大剧" start="20250118203200 +0800" stop="20250118210200 +0800">
 		<title lang="zh">【推荐】雅德荣氨糖软骨素</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250118210200 +0800" stop="20250118215100 +0800">
+		<title lang="zh">01_英雄使命</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -83172,6 +83178,9 @@
 	<programme channel="newtv古装剧场" start="20250118202800 +0800" stop="20250118211600 +0800">
 		<title lang="zh">67_那年花开月正圆</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250118211600 +0800" stop="20250118214600 +0800">
+		<title lang="zh">【推荐】雅德荣氨糖软骨素</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -83339,6 +83348,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250118201900 +0800" stop="20250118210600 +0800">
 		<title lang="zh">30_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250118210600 +0800" stop="20250118213600 +0800">
+		<title lang="zh">《花样人生》推荐第十七期</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -83640,6 +83652,9 @@
 	<programme channel="newtv怡伴健康" start="20250118203700 +0800" stop="20250118210700 +0800">
 		<title lang="zh">【推荐】雅德荣氨糖软骨素</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250118210700 +0800" stop="20250118220100 +0800">
+		<title lang="zh">山西清徐学栋vs北京东炸团 第3局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -83843,6 +83858,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250118205300 +0800" stop="20250118211500 +0800">
 		<title lang="zh">二战沙场b7阿登战役（上）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250118211500 +0800" stop="20250118213700 +0800">
+		<title lang="zh">二战沙场b7阿登战役（下）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -84281,6 +84299,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250118201800 +0800" stop="20250118210400 +0800">
 		<title lang="zh">34_庆余年</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250118210400 +0800" stop="20250118215000 +0800">
+		<title lang="zh">35_庆余年</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
