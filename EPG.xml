@@ -28350,6 +28350,9 @@
 	<programme channel="咪咕综合体育" start="20250118110000 +0800" stop="20250118111000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250118111000 +0800" stop="20250118113500 +0800">
+		<title lang="zh">欧陆足球版图</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -28385,6 +28388,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250118093000 +0800" stop="20250118111000 +0800">
 		<title lang="zh">当燃CBA 24/25常规赛第29轮 浙江稠州金租-北京北汽</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250118112000 +0800" stop="20250118124000 +0800">
+		<title lang="zh">村BA</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -60444,6 +60450,9 @@
 	<programme channel="爱情喜剧" start="20250118101800 +0800" stop="20250118110900 +0800">
 		<title lang="zh">27_好大一个家</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250118110900 +0800" stop="20250118115400 +0800">
+		<title lang="zh">28_好大一个家</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -66545,6 +66554,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250118104000 +0800" stop="20250118111000 +0800">
 		<title lang="zh">寻古中国4K 寻夏记b7夏迹寻踪</title>
+	</programme>
+	<programme channel="纯享4K" start="20250118111000 +0800" stop="20250118112500 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 龙舟夺标图</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -81246,6 +81258,9 @@
 	<programme channel="黑莓动画" start="20250118101700 +0800" stop="20250118110300 +0800">
 		<title lang="zh">汪汪队立大功第3季24</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250118110300 +0800" stop="20250118113000 +0800">
+		<title lang="zh">23_钶龙战记</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -82281,6 +82296,9 @@
 	<programme channel="newtv超级电视剧" start="20250118103300 +0800" stop="20250118111500 +0800">
 		<title lang="zh">19_跨过鸭绿江</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250118111500 +0800" stop="20250118115600 +0800">
+		<title lang="zh">20_跨过鸭绿江</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -82551,6 +82569,9 @@
 	<programme channel="newtv热播精选" start="20250118101500 +0800" stop="20250118110700 +0800">
 		<title lang="zh">28_玉骨遥</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250118110700 +0800" stop="20250118115700 +0800">
+		<title lang="zh">石药牌纳豆红曲地龙蛋白片-渠道（右）</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -82586,6 +82607,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250118101800 +0800" stop="20250118110900 +0800">
 		<title lang="zh">27_好大一个家</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250118110900 +0800" stop="20250118115400 +0800">
+		<title lang="zh">28_好大一个家</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -82655,6 +82679,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250118102500 +0800" stop="20250118111500 +0800">
 		<title lang="zh">13_石光荣和他的儿女们</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250118111500 +0800" stop="20250118114300 +0800">
+		<title lang="zh">货运骗局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -83024,6 +83051,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250118102700 +0800" stop="20250118111500 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250118111500 +0800" stop="20250118120100 +0800">
+		<title lang="zh">12_长歌行</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
