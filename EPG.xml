@@ -21321,6 +21321,9 @@
 	<programme channel="动作电影" start="20250118134200 +0800" stop="20250118151500 +0800">
 		<title lang="zh">别有动机</title>
 	</programme>
+	<programme channel="动作电影" start="20250118151500 +0800" stop="20250118164500 +0800">
+		<title lang="zh">街区斗士</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -43142,6 +43145,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250118144200 +0800" stop="20250118150600 +0800">
 		<title lang="zh">29_间谍过家家</title>
+	</programme>
+	<programme channel="明星大片" start="20250118150600 +0800" stop="20250118155700 +0800">
+		<title lang="zh">美康利健半导体激光治疗仪-渠道（右）</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -66642,6 +66648,9 @@
 	<programme channel="纯享4K" start="20250118143700 +0800" stop="20250118150400 +0800">
 		<title lang="zh">一带一路上的中国名片4K 第5集 运输b7钢铁驼队</title>
 	</programme>
+	<programme channel="纯享4K" start="20250118150400 +0800" stop="20250118153100 +0800">
+		<title lang="zh">一带一路上的中国名片4K 第6集 科技b7智慧之光</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -81381,6 +81390,9 @@
 	<programme channel="黑莓动画" start="20250118145900 +0800" stop="20250118150600 +0800">
 		<title lang="zh">19_坦克世界动画：塔拉斯大战KV-44</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250118150600 +0800" stop="20250118152400 +0800">
+		<title lang="zh">失踪的霸王龙 小志抵抗坏蛋恐龙 心奇爆龙战车X</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -82827,6 +82839,9 @@
 	<programme channel="newtv热播精选" start="20250118141200 +0800" stop="20250118150100 +0800">
 		<title lang="zh">09_欢颜</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250118150100 +0800" stop="20250118155400 +0800">
+		<title lang="zh">10_欢颜</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -82913,6 +82928,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250118134200 +0800" stop="20250118151500 +0800">
 		<title lang="zh">别有动机</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250118151500 +0800" stop="20250118164500 +0800">
+		<title lang="zh">街区斗士</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -83037,6 +83055,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250118141500 +0800" stop="20250118151100 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250118151100 +0800" stop="20250118155900 +0800">
+		<title lang="zh">46_隋唐英雄5之薛刚反唐</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -83117,6 +83138,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250118144000 +0800" stop="20250118150500 +0800">
 		<title lang="zh">国台办新闻发布会 乐见两岸青年常来常往 走近走亲</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250118150500 +0800" stop="20250118153100 +0800">
+		<title lang="zh">台湾向乌克兰卖导弹 美国当上中间商</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -83247,6 +83271,9 @@
 	<programme channel="newtv精品综合" start="20250118144200 +0800" stop="20250118150600 +0800">
 		<title lang="zh">29_间谍过家家</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250118150600 +0800" stop="20250118155700 +0800">
+		<title lang="zh">美康利健半导体激光治疗仪-渠道（右）</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -83330,6 +83357,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250118140800 +0800" stop="20250118150500 +0800">
 		<title lang="zh">势均力敌的我们</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250118150500 +0800" stop="20250118155600 +0800">
+		<title lang="zh">美康利健半导体激光治疗仪-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
