@@ -81879,6 +81879,9 @@
 	<programme channel="黑莓电影" start="20250118213700 +0800" stop="20250118231600 +0800">
 		<title lang="zh">忍者神龟：变种大乱斗</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250118231600 +0800" stop="20250118011500 +0800">
+		<title lang="zh">云端之上</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -83811,6 +83814,9 @@
 	<programme channel="newtv怡伴健康" start="20250118223700 +0800" stop="20250118231200 +0800">
 		<title lang="zh">《花样人生》推荐第十七期</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250118231200 +0800" stop="20250118003100 +0800">
+		<title lang="zh">乡约：海岛相亲带你走进海世界</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -84038,6 +84044,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250118224200 +0800" stop="20250118230400 +0800">
 		<title lang="zh">偷袭纳粹机场</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250118230400 +0800" stop="20250118232600 +0800">
+		<title lang="zh">破坏重水厂</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
