@@ -41457,6 +41457,9 @@
 	<programme channel="惊悚悬疑" start="20250119114100 +0800" stop="20250119131200 +0800">
 		<title lang="zh">镇魔司：苍龙觉醒</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250119131200 +0800" stop="20250119143900 +0800">
+		<title lang="zh">夺镖</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -83832,6 +83835,9 @@
 	<programme channel="newtv怡伴健康" start="20250119122000 +0800" stop="20250119130500 +0800">
 		<title lang="zh">31_兰桐花开</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250119130500 +0800" stop="20250119135600 +0800">
+		<title lang="zh">32_兰桐花开</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -83963,6 +83969,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250119123900 +0800" stop="20250119130400 +0800">
 		<title lang="zh">叫嚣“大陆最怕我” 赖清德贻笑世人</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250119130400 +0800" stop="20250119133000 +0800">
+		<title lang="zh">台军突然加强备战 2024选举有“黑天鹅”？</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -84101,6 +84110,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250119114100 +0800" stop="20250119131200 +0800">
 		<title lang="zh">镇魔司：苍龙觉醒</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250119131200 +0800" stop="20250119143900 +0800">
+		<title lang="zh">夺镖</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
