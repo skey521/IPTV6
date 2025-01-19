@@ -41607,6 +41607,9 @@
 	<programme channel="惊悚悬疑" start="20250119214900 +0800" stop="20250119231600 +0800">
 		<title lang="zh">火线追凶2之押解惊魂</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250119231600 +0800" stop="20250119004300 +0800">
+		<title lang="zh">火线追凶2之不白之冤</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -82767,6 +82770,9 @@
 	<programme channel="黑莓动画" start="20250119224700 +0800" stop="20250119231100 +0800">
 		<title lang="zh">13_间谍过家家</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250119231100 +0800" stop="20250119233500 +0800">
+		<title lang="zh">14_间谍过家家</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -83787,6 +83793,9 @@
 	<programme channel="newtv超级体育" start="20250119214500 +0800" stop="20250119231000 +0800">
 		<title lang="zh">21:45 实况录像-2025年澳大利亚网球公开赛 第四轮(录播)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250119231000 +0800" stop="20250119013000 +0800">
+		<title lang="zh">2024/2025西班牙足球甲级联赛- 第20轮(皇家马德里-拉斯帕尔马斯)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -84228,6 +84237,9 @@
 	<programme channel="newtv古装剧场" start="20250119222400 +0800" stop="20250119230900 +0800">
 		<title lang="zh">73_那年花开月正圆</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250119230900 +0800" stop="20250119235900 +0800">
+		<title lang="zh">74_那年花开月正圆</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -84416,6 +84428,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250119221400 +0800" stop="20250119231500 +0800">
 		<title lang="zh">36_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250119231500 +0800" stop="20250119000000 +0800">
+		<title lang="zh">01_林深见鹿</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -84975,6 +84990,9 @@
 	<programme channel="newtv军事评论" start="20250119224500 +0800" stop="20250119230700 +0800">
 		<title lang="zh">全景一战b7战线（下）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250119230700 +0800" stop="20250119232900 +0800">
+		<title lang="zh">全景一战b7战火（上）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -85082,6 +85100,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250119225600 +0800" stop="20250119231100 +0800">
 		<title lang="zh">唱响新时代—毕刚（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250119231100 +0800" stop="20250119002100 +0800">
+		<title lang="zh">选对健康（20241227）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -85220,6 +85241,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250119214900 +0800" stop="20250119231600 +0800">
 		<title lang="zh">火线追凶2之押解惊魂</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250119231600 +0800" stop="20250119004300 +0800">
+		<title lang="zh">火线追凶2之不白之冤</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
