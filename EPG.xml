@@ -66915,6 +66915,9 @@
 	<programme channel="纯享4K" start="20250120143800 +0800" stop="20250120150800 +0800">
 		<title lang="zh">旅游指南4K 幸会师父b7咏春拳</title>
 	</programme>
+	<programme channel="纯享4K" start="20250120150800 +0800" stop="20250120153700 +0800">
+		<title lang="zh">旅游指南4K 幸会师父b7白眉拳</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -80595,6 +80598,9 @@
 	<programme channel="黑莓动画" start="20250120144000 +0800" stop="20250120151300 +0800">
 		<title lang="zh">90_笨蛋波波与小宝</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250120151300 +0800" stop="20250120151600 +0800">
+		<title lang="zh">24_坦克世界动画：铁傀儡和球形坦克找到了KV-44</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -81513,6 +81519,9 @@
 	<programme channel="newtv超级电视剧" start="20250120142200 +0800" stop="20250120150400 +0800">
 		<title lang="zh">04_特赦1959</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250120150400 +0800" stop="20250120154500 +0800">
+		<title lang="zh">05_特赦1959</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -81702,6 +81711,9 @@
 	<programme channel="newtv古装剧场" start="20250120142400 +0800" stop="20250120151200 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250120151200 +0800" stop="20250120155700 +0800">
+		<title lang="zh">57_扶摇</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -81873,6 +81885,9 @@
 	<programme channel="newtv热播精选" start="20250120142000 +0800" stop="20250120150500 +0800">
 		<title lang="zh">15_欢颜</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250120150500 +0800" stop="20250120155200 +0800">
+		<title lang="zh">16_欢颜</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -82019,6 +82034,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250120145400 +0800" stop="20250120150600 +0800">
 		<title lang="zh">【相声】《儿时玩伴》表演：孟鹤堂、周九良</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250120150600 +0800" stop="20250120153300 +0800">
+		<title lang="zh">自作自受的驾驶者</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -82244,6 +82262,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250120145800 +0800" stop="20250120150200 +0800">
 		<title lang="zh">最真的梦-饶子龙（舞蹈展示）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250120150200 +0800" stop="20250120153000 +0800">
+		<title lang="zh">180张银行卡（20241013）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -82505,6 +82526,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250120142600 +0800" stop="20250120151400 +0800">
 		<title lang="zh">37_三国机密</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250120151400 +0800" stop="20250120160400 +0800">
+		<title lang="zh">38_三国机密</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
