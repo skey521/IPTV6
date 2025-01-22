@@ -51,6 +51,9 @@
 	<programme channel="4K综艺" start="20250122174100 +0800" stop="20250122191300 +0800">
 		<title lang="zh">花儿与少年第一季20140523</title>
 	</programme>
+	<programme channel="4K综艺" start="20250122191300 +0800" stop="20250122205800 +0800">
+		<title lang="zh">花儿与少年第一季20140530</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -30086,6 +30089,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250122185500 +0800" stop="20250122192000 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250122192000 +0800" stop="20250122221500 +0800">
+		<title lang="zh">当燃CBA 24/25常规赛第34轮 北京北汽-深圳马可波罗 直播</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -62274,6 +62280,9 @@
 	<programme channel="爱情喜剧" start="20250122184300 +0800" stop="20250122191300 +0800">
 		<title lang="zh">【推荐】雅德荣氨糖软骨素</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250122191300 +0800" stop="20250122195900 +0800">
+		<title lang="zh">14_在暴雪时分</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -68249,6 +68258,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250122184300 +0800" stop="20250122191300 +0800">
 		<title lang="zh">寻古中国4K 古蜀记b7古蜀之源</title>
+	</programme>
+	<programme channel="纯享4K" start="20250122191300 +0800" stop="20250122195500 +0800">
+		<title lang="zh">远方的家4K 长江行 金沙江：探秘香格里拉</title>
 	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
@@ -82503,6 +82515,9 @@
 	<programme channel="黑莓动画" start="20250122185400 +0800" stop="20250122190700 +0800">
 		<title lang="zh">05_咖宝车神第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250122190700 +0800" stop="20250122192100 +0800">
+		<title lang="zh">06_咖宝车神第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -83745,6 +83760,9 @@
 	<programme channel="newtv精品纪录" start="20250122181400 +0800" stop="20250122190800 +0800">
 		<title lang="zh">01_相依</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250122190800 +0800" stop="20250122193700 +0800">
+		<title lang="zh">美味四平（上）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -83819,6 +83837,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250122182000 +0800" stop="20250122191100 +0800">
 		<title lang="zh">23_传闻中的陈芊芊</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250122191100 +0800" stop="20250122194100 +0800">
+		<title lang="zh">【推荐】雅德荣氨糖软骨素</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -84104,6 +84125,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250122184300 +0800" stop="20250122191300 +0800">
 		<title lang="zh">【推荐】雅德荣氨糖软骨素</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250122191300 +0800" stop="20250122195900 +0800">
+		<title lang="zh">14_在暴雪时分</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -84698,6 +84722,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250122181100 +0800" stop="20250122191300 +0800">
 		<title lang="zh">十三邀第7季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250122191300 +0800" stop="20250122200300 +0800">
+		<title lang="zh">南极奋进号高纯南极磷虾油-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
