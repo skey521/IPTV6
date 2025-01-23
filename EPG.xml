@@ -83589,6 +83589,9 @@
 	<programme channel="黑莓动画" start="20250123144700 +0800" stop="20250123151300 +0800">
 		<title lang="zh">听大牙姐姐讲小白兔和乌龟赛跑故事学习生活小常识</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250123151300 +0800" stop="20250123154400 +0800">
+		<title lang="zh">20_笨蛋波波与小宝</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -84942,6 +84945,9 @@
 	<programme channel="newtv家庭剧场" start="20250123142700 +0800" stop="20250123150800 +0800">
 		<title lang="zh">21_妻子的新世界</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250123150800 +0800" stop="20250123155100 +0800">
+		<title lang="zh">coolests健康纯钛金色碗套组-渠道（右）</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -85214,6 +85220,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250123142300 +0800" stop="20250123151100 +0800">
 		<title lang="zh">Bertrand无涂层不粘钛炒锅-渠道（右）</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250123151100 +0800" stop="20250123155800 +0800">
+		<title lang="zh">03_长相思</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -85643,6 +85652,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250123141500 +0800" stop="20250123150200 +0800">
 		<title lang="zh">49_三国机密</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250123150200 +0800" stop="20250123155300 +0800">
+		<title lang="zh">50_三国机密</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
