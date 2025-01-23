@@ -15,6 +15,9 @@
 	<programme channel="4K综艺" start="20250124035100 +0800" stop="20250124051300 +0800">
 		<title lang="zh">奇兵神犬20171229</title>
 	</programme>
+	<programme channel="4K综艺" start="20250124051300 +0800" stop="20250124063800 +0800">
+		<title lang="zh">奇兵神犬20180105</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -45393,6 +45396,9 @@
 	<programme channel="黑莓动画" start="20250124041700 +0800" stop="20250124050100 +0800">
 		<title lang="zh">08_马达加斯加企鹅第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250124050100 +0800" stop="20250124055000 +0800">
+		<title lang="zh">13_葬送的芙莉莲</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -45750,6 +45756,9 @@
 	<programme channel="newtv超级电视剧" start="20250124043300 +0800" stop="20250124051700 +0800">
 		<title lang="zh">11_锦绣未央</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250124051700 +0800" stop="20250124060200 +0800">
+		<title lang="zh">12_锦绣未央</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -45770,6 +45779,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250124041600 +0800" stop="20250124050800 +0800">
 		<title lang="zh">24_我家有喜</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250124050800 +0800" stop="20250124055400 +0800">
+		<title lang="zh">25_我家有喜</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -45834,6 +45846,9 @@
 	<programme channel="newtv古装剧场" start="20250124042500 +0800" stop="20250124051500 +0800">
 		<title lang="zh">21_大武当</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250124051500 +0800" stop="20250124060600 +0800">
+		<title lang="zh">22_大武当</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -45876,6 +45891,9 @@
 	<programme channel="newtv家庭剧场" start="20250124041900 +0800" stop="20250124051300 +0800">
 		<title lang="zh">04_完美伴侣</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250124051300 +0800" stop="20250124054700 +0800">
+		<title lang="zh">05_完美伴侣</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -45908,6 +45926,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250124041100 +0800" stop="20250124050300 +0800">
 		<title lang="zh">45_锦绣未央</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250124050300 +0800" stop="20250124055500 +0800">
+		<title lang="zh">46_锦绣未央</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -46011,6 +46032,9 @@
 	<programme channel="newtv军事评论" start="20250124044400 +0800" stop="20250124050500 +0800">
 		<title lang="zh">美“鱼鹰”复飞或成“定时炸弹”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250124050500 +0800" stop="20250124052700 +0800">
+		<title lang="zh">俄军猎杀美制“海玛斯”与“爱国者”</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -46073,6 +46097,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250124033900 +0800" stop="20250124050500 +0800">
 		<title lang="zh">镇魔司：四象伏魔</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250124050500 +0800" stop="20250124062000 +0800">
+		<title lang="zh">毒战生死线2</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
