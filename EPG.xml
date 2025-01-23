@@ -102,6 +102,9 @@
 	<programme channel="4K综艺" start="20250123181800 +0800" stop="20250123190500 +0800">
 		<title lang="zh">小小的追球20200101</title>
 	</programme>
+	<programme channel="4K综艺" start="20250123190500 +0800" stop="20250123202500 +0800">
+		<title lang="zh">小小的追球20200107</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -45876,6 +45879,9 @@
 	<programme channel="明星大片" start="20250123175500 +0800" stop="20250123190800 +0800">
 		<title lang="zh">艾嘉食堂</title>
 	</programme>
+	<programme channel="明星大片" start="20250123190800 +0800" stop="20250123195800 +0800">
+		<title lang="zh">南极奋进号高纯南极磷虾油-渠道（右）</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -69315,6 +69321,9 @@
 	<programme channel="纯享4K" start="20250123183600 +0800" stop="20250123190600 +0800">
 		<title lang="zh">寻古中国4K 河洛记b7聚落成邑</title>
 	</programme>
+	<programme channel="纯享4K" start="20250123190600 +0800" stop="20250123194800 +0800">
+		<title lang="zh">远方的家4K 长江行 金沙江边话永胜</title>
+	</programme>
 	<channel id="绍兴新闻综合">
 		<display-name lang="zh">绍兴新闻综合</display-name>
 	</channel>
@@ -83607,6 +83616,9 @@
 	<programme channel="黑莓动画" start="20250123185900 +0800" stop="20250123191300 +0800">
 		<title lang="zh">10_龙战士星源</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250123191300 +0800" stop="20250123192700 +0800">
+		<title lang="zh">07_咖宝车神第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -84906,6 +84918,9 @@
 	<programme channel="newtv精品纪录" start="20250123181600 +0800" stop="20250123190300 +0800">
 		<title lang="zh">动物建筑师</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250123190300 +0800" stop="20250123195800 +0800">
+		<title lang="zh">02_国命</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -84987,6 +85002,9 @@
 	<programme channel="newtv古装剧场" start="20250123184100 +0800" stop="20250123191100 +0800">
 		<title lang="zh">【推荐】雅德荣氨糖软骨素</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250123191100 +0800" stop="20250123194800 +0800">
+		<title lang="zh">05_兰闺喜事</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -85064,6 +85082,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250123182800 +0800" stop="20250123191300 +0800">
 		<title lang="zh">13_使徒行者3[粤语版]</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250123191300 +0800" stop="20250123195700 +0800">
+		<title lang="zh">14_使徒行者3[粤语版]</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -85419,6 +85440,9 @@
 	<programme channel="newtv怡伴健康" start="20250123182300 +0800" stop="20250123191000 +0800">
 		<title lang="zh">贵州混斗联盟vs吉林咔乐咪 第1局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250123191000 +0800" stop="20250123194000 +0800">
+		<title lang="zh">【推广】十二生肖酒 30分钟版本</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -85626,6 +85650,9 @@
 	<programme channel="newtv军事评论" start="20250123184800 +0800" stop="20250123191400 +0800">
 		<title lang="zh">上天下海的巾帼力量</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250123191400 +0800" stop="20250123193900 +0800">
+		<title lang="zh">情定蔚蓝大海</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -85773,6 +85800,9 @@
 	<programme channel="newtv精品综合" start="20250123175500 +0800" stop="20250123190800 +0800">
 		<title lang="zh">艾嘉食堂</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250123190800 +0800" stop="20250123195800 +0800">
+		<title lang="zh">南极奋进号高纯南极磷虾油-渠道（右）</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -85868,6 +85898,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250123181100 +0800" stop="20250123191900 +0800">
 		<title lang="zh">十三邀第7季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250123191900 +0800" stop="20250123200900 +0800">
+		<title lang="zh">南极奋进号高纯南极磷虾油-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
