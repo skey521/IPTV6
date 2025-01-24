@@ -102,6 +102,9 @@
 	<programme channel="4K综艺" start="20250124220300 +0800" stop="20250124231200 +0800">
 		<title lang="zh">小小的追球20200204</title>
 	</programme>
+	<programme channel="4K综艺" start="20250124231200 +0800" stop="20250124000000 +0800">
+		<title lang="zh">小小的追球20200205</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -42381,6 +42384,9 @@
 	<programme channel="惊悚悬疑" start="20250124214800 +0800" stop="20250124231000 +0800">
 		<title lang="zh">九辫灵狐</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250124231000 +0800" stop="20250124002400 +0800">
+		<title lang="zh">维和女警：暴力安全区</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -63138,6 +63144,9 @@
 	<programme channel="爱情喜剧" start="20250124220600 +0800" stop="20250124230200 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250124230200 +0800" stop="20250124010200 +0800">
+		<title lang="zh">云端之上</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -83157,6 +83166,9 @@
 	<programme channel="黑莓动画" start="20250124225000 +0800" stop="20250124231400 +0800">
 		<title lang="zh">21_间谍过家家</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250124231400 +0800" stop="20250124233800 +0800">
+		<title lang="zh">22_间谍过家家</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -84321,6 +84333,9 @@
 	<programme channel="newtv超级电视剧" start="20250124222700 +0800" stop="20250124231300 +0800">
 		<title lang="zh">08_九重紫</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250124231300 +0800" stop="20250124235900 +0800">
+		<title lang="zh">09_九重紫</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -84416,6 +84431,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250124222000 +0800" stop="20250124231000 +0800">
 		<title lang="zh">26_英雄使命</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250124231000 +0800" stop="20250124235900 +0800">
+		<title lang="zh">27_英雄使命</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -84732,6 +84750,9 @@
 	<programme channel="newtv军旅剧场" start="20250124222600 +0800" stop="20250124231000 +0800">
 		<title lang="zh">28_警犬来啦</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250124231000 +0800" stop="20250124235400 +0800">
+		<title lang="zh">29_警犬来啦</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -84990,6 +85011,9 @@
 	<programme channel="newtv爱情喜剧" start="20250124220600 +0800" stop="20250124230200 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250124230200 +0800" stop="20250124010200 +0800">
+		<title lang="zh">云端之上</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -85160,6 +85184,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250124223600 +0800" stop="20250124231100 +0800">
 		<title lang="zh">【推广】十二生肖酒 30分钟版本</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250124231100 +0800" stop="20250124235200 +0800">
+		<title lang="zh">乡约：乡约江苏徐州市铜山区</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -85515,6 +85542,9 @@
 	<programme channel="newtv炫舞未来" start="20250124225800 +0800" stop="20250124231000 +0800">
 		<title lang="zh">02_牧羊曲-李萍（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250124231000 +0800" stop="20250124002700 +0800">
+		<title lang="zh">中国传统手艺手影戏和手指舞的结合（20241116）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -85667,6 +85697,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250124214800 +0800" stop="20250124231000 +0800">
 		<title lang="zh">九辫灵狐</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250124231000 +0800" stop="20250124002400 +0800">
+		<title lang="zh">维和女警：暴力安全区</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
