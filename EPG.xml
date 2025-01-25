@@ -46404,6 +46404,9 @@
 	<programme channel="newtv超级综艺" start="20250126033900 +0800" stop="20250126051300 +0800">
 		<title lang="zh">经典咏流传b7正青春</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250126051300 +0800" stop="20250126060300 +0800">
+		<title lang="zh">勇者之战</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -46451,6 +46454,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250126041600 +0800" stop="20250126050200 +0800">
 		<title lang="zh">19_锦绣未央</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250126050200 +0800" stop="20250126054700 +0800">
+		<title lang="zh">20_锦绣未央</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
