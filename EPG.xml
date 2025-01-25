@@ -82617,6 +82617,9 @@
 	<programme channel="黑莓动画" start="20250125205300 +0800" stop="20250125210700 +0800">
 		<title lang="zh">21_托宝战士之银河侦探1</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250125210700 +0800" stop="20250125212000 +0800">
+		<title lang="zh">22_托宝战士之银河侦探1</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -83847,6 +83850,9 @@
 	<programme channel="newtv精品大剧" start="20250125202100 +0800" stop="20250125210400 +0800">
 		<title lang="zh">40_女医明妃传</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250125210400 +0800" stop="20250125215000 +0800">
+		<title lang="zh">29_英雄使命</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -84053,6 +84059,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250125202100 +0800" stop="20250125211000 +0800">
 		<title lang="zh">26_长相思</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250125211000 +0800" stop="20250125214000 +0800">
+		<title lang="zh">【推广】十二生肖酒 30分钟版本</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -84554,6 +84563,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250125203800 +0800" stop="20250125210800 +0800">
 		<title lang="zh">【推荐】雅德荣氨糖软骨素</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250125210800 +0800" stop="20250125215000 +0800">
+		<title lang="zh">四川剑开天门vs贵州混斗联盟 第6局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -85229,6 +85241,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250125202700 +0800" stop="20250125211400 +0800">
 		<title lang="zh">17_倚天屠龙记</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250125211400 +0800" stop="20250125214400 +0800">
+		<title lang="zh">【推广】十二生肖酒 30分钟版本</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
