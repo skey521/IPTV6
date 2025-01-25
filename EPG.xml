@@ -111,6 +111,9 @@
 	<programme channel="4K综艺" start="20250125213000 +0800" stop="20250125230300 +0800">
 		<title lang="zh">亲爱的客栈第三季20191101</title>
 	</programme>
+	<programme channel="4K综艺" start="20250125230300 +0800" stop="20250125000000 +0800">
+		<title lang="zh">亲爱的客栈第三季20191108</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -44382,6 +44385,9 @@
 	<programme channel="明星大片" start="20250125221900 +0800" stop="20250125230300 +0800">
 		<title lang="zh">25_乌鸦小姐与蜥蜴先生</title>
 	</programme>
+	<programme channel="明星大片" start="20250125230300 +0800" stop="20250125000900 +0800">
+		<title lang="zh">出招吧！看不剑！</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -82683,6 +82689,9 @@
 	<programme channel="黑莓动画" start="20250125223900 +0800" stop="20250125230300 +0800">
 		<title lang="zh">23_间谍过家家</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250125230300 +0800" stop="20250125232800 +0800">
+		<title lang="zh">24_间谍过家家</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -83850,6 +83859,9 @@
 	<programme channel="newtv超级电视剧" start="20250125222500 +0800" stop="20250125231100 +0800">
 		<title lang="zh">11_九重紫</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250125231100 +0800" stop="20250125235700 +0800">
+		<title lang="zh">12_九重紫</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -84171,6 +84183,9 @@
 	<programme channel="newtv古装剧场" start="20250125222700 +0800" stop="20250125231400 +0800">
 		<title lang="zh">28_长相思</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250125231400 +0800" stop="20250125235700 +0800">
+		<title lang="zh">29_长相思</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -84365,6 +84380,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250125221400 +0800" stop="20250125230100 +0800">
 		<title lang="zh">29_林深见鹿</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250125230100 +0800" stop="20250125234800 +0800">
+		<title lang="zh">30_林深见鹿</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -84963,6 +84981,9 @@
 	<programme channel="newtv军事评论" start="20250125223900 +0800" stop="20250125230400 +0800">
 		<title lang="zh">外媒炒作所谓“美军五航母部署西太” 美考虑向乌提供更远射程导弹</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250125230400 +0800" stop="20250125233000 +0800">
+		<title lang="zh">美再对台售武 对俄大规模制裁 持续挑动地区局势是何居心？</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -85157,6 +85178,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250125221900 +0800" stop="20250125230300 +0800">
 		<title lang="zh">25_乌鸦小姐与蜥蜴先生</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250125230300 +0800" stop="20250125000900 +0800">
+		<title lang="zh">出招吧！看不剑！</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
