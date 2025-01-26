@@ -22890,6 +22890,9 @@
 	<programme channel="动作电影" start="20250126180200 +0800" stop="20250126190600 +0800">
 		<title lang="zh">特种兵归来2：黑色罂粟</title>
 	</programme>
+	<programme channel="动作电影" start="20250126190600 +0800" stop="20250126193600 +0800">
+		<title lang="zh">【推荐】雅德荣氨糖软骨素</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -30086,6 +30089,9 @@
 	</programme>
 	<programme channel="咪咕综合体育" start="20250126185900 +0800" stop="20250126191500 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20250126191500 +0800" stop="20250126214000 +0800">
+		<title lang="zh">足球世界-24/25赛季意甲 第22轮 AC米兰-帕尔马 直播</title>
 	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
@@ -45167,6 +45173,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250126180600 +0800" stop="20250126190700 +0800">
 		<title lang="zh">现在就出发第2季</title>
+	</programme>
+	<programme channel="明星大片" start="20250126190700 +0800" stop="20250126194200 +0800">
+		<title lang="zh">博可麦记麦绿素片-渠道（右）</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -73626,6 +73635,9 @@
 	<programme channel="超级电影" start="20250126173300 +0800" stop="20250126191800 +0800">
 		<title lang="zh">电影《叱咤风云》</title>
 	</programme>
+	<programme channel="超级电影" start="20250126191800 +0800" stop="20250126205400 +0800">
+		<title lang="zh">电影《特种兵归来之绝地营救》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -83973,6 +83985,9 @@
 	<programme channel="黑莓动画" start="20250126184200 +0800" stop="20250126190400 +0800">
 		<title lang="zh">动物兄弟第一季38</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250126190400 +0800" stop="20250126191800 +0800">
+		<title lang="zh">15_龙战士星源</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -84990,6 +85005,9 @@
 	<programme channel="newtv超级电影" start="20250126173300 +0800" stop="20250126191800 +0800">
 		<title lang="zh">电影《叱咤风云》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250126191800 +0800" stop="20250126205400 +0800">
+		<title lang="zh">电影《特种兵归来之绝地营救》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -85067,6 +85085,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250126182700 +0800" stop="20250126191300 +0800">
 		<title lang="zh">02_舍不得星星</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250126191300 +0800" stop="20250126195900 +0800">
+		<title lang="zh">03_舍不得星星</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -85148,6 +85169,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250126183500 +0800" stop="20250126190500 +0800">
 		<title lang="zh">【推荐】雅德荣氨糖软骨素</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250126190500 +0800" stop="20250126195000 +0800">
+		<title lang="zh">43_女医明妃传</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -85250,6 +85274,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250126183600 +0800" stop="20250126191500 +0800">
 		<title lang="zh">家乡至味2022（16）</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250126191500 +0800" stop="20250126195300 +0800">
+		<title lang="zh">家乡至味2022（17）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -85676,6 +85703,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250126180200 +0800" stop="20250126190600 +0800">
 		<title lang="zh">特种兵归来2：黑色罂粟</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250126190600 +0800" stop="20250126193600 +0800">
+		<title lang="zh">【推荐】雅德荣氨糖软骨素</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -86157,6 +86187,9 @@
 	<programme channel="newtv精品综合" start="20250126180600 +0800" stop="20250126190700 +0800">
 		<title lang="zh">现在就出发第2季</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250126190700 +0800" stop="20250126194200 +0800">
+		<title lang="zh">博可麦记麦绿素片-渠道（右）</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -86262,6 +86295,9 @@
 	<programme channel="newtv金牌综艺" start="20250126183500 +0800" stop="20250126191000 +0800">
 		<title lang="zh">博可麦记麦绿素片-渠道（右）</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20250126191000 +0800" stop="20250126210800 +0800">
+		<title lang="zh">脱口秀大会 第4季</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -86294,6 +86330,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250126170900 +0800" stop="20250126190800 +0800">
 		<title lang="zh">2024世界女排联赛中国香港站：中国VS土耳其</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250126190800 +0800" stop="20250126201700 +0800">
+		<title lang="zh">2024世界女排联赛中国澳门站：意大利VS中国</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
@@ -86402,6 +86441,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250126183500 +0800" stop="20250126190500 +0800">
 		<title lang="zh">【推荐】雅德荣氨糖软骨素</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250126190500 +0800" stop="20250126195100 +0800">
+		<title lang="zh">19_倚天屠龙记</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
