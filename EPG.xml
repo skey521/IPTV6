@@ -39609,6 +39609,9 @@
 	<programme channel="纯享4K" start="20250127042000 +0800" stop="20250127050200 +0800">
 		<title lang="zh">远方的家4K 长江行 水润华坪 物华天宝</title>
 	</programme>
+	<programme channel="纯享4K" start="20250127051300 +0800" stop="20250127055800 +0800">
+		<title lang="zh">传承b7智慧篇4K 第6集 动静之力</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -47913,6 +47916,9 @@
 	<programme channel="newtv古装剧场" start="20250127042600 +0800" stop="20250127051300 +0800">
 		<title lang="zh">08_三生三世枕上书</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250127051300 +0800" stop="20250127060100 +0800">
+		<title lang="zh">09_三生三世枕上书</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -47933,6 +47939,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250127042500 +0800" stop="20250127050500 +0800">
 		<title lang="zh">16_双刺</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250127050500 +0800" stop="20250127054600 +0800">
+		<title lang="zh">17_双刺</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -48128,6 +48137,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250127045600 +0800" stop="20250127051100 +0800">
 		<title lang="zh">执迷不悟-孙爱迪</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250127051100 +0800" stop="20250127052600 +0800">
+		<title lang="zh">春光里-毕刚</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
