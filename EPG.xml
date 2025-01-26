@@ -45228,6 +45228,9 @@
 	<programme channel="明星大片" start="20250126222800 +0800" stop="20250126231200 +0800">
 		<title lang="zh">29_乌鸦小姐与蜥蜴先生</title>
 	</programme>
+	<programme channel="明星大片" start="20250126231200 +0800" stop="20250126002900 +0800">
+		<title lang="zh">匿名情绪</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -69225,6 +69228,9 @@
 	<programme channel="纯享4K" start="20250126223900 +0800" stop="20250126230900 +0800">
 		<title lang="zh">旅游指南4K 好吃客b7杭州（下）</title>
 	</programme>
+	<programme channel="纯享4K" start="20250126230900 +0800" stop="20250126233300 +0800">
+		<title lang="zh">了不起的冬天4K 第2集 默契</title>
+	</programme>
 	<channel id="绍兴新闻综合">
 		<display-name lang="zh">绍兴新闻综合</display-name>
 	</channel>
@@ -84120,6 +84126,9 @@
 	<programme channel="黑莓动画" start="20250126230000 +0800" stop="20250126231300 +0800">
 		<title lang="zh">44_踢踢和奇奇之魔力课堂 第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250126231300 +0800" stop="20250126232700 +0800">
+		<title lang="zh">28_画江湖之不良人第1季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -85128,6 +85137,9 @@
 	<programme channel="newtv超级体育" start="20250126220500 +0800" stop="20250126231000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季速度滑冰世界杯 加拿大站(录播)2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250126231000 +0800" stop="20250126013000 +0800">
+		<title lang="zh">2024/2025西班牙足球甲级联赛-第21轮(皇家社会-赫塔费)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -85589,6 +85601,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250126221900 +0800" stop="20250126230600 +0800">
 		<title lang="zh">33_长相思</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250126230600 +0800" stop="20250126235300 +0800">
+		<title lang="zh">34_长相思</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -86379,6 +86394,9 @@
 	<programme channel="newtv军事评论" start="20250126223900 +0800" stop="20250126230400 +0800">
 		<title lang="zh">美高超音速导弹现身关岛 俄军在乌击毁第二辆美制坦克</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250126230400 +0800" stop="20250126232900 +0800">
+		<title lang="zh">印度在马尔代夫附近建新基地 俄方：德国在为与俄交战做准备</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -86600,6 +86618,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250126222800 +0800" stop="20250126231200 +0800">
 		<title lang="zh">29_乌鸦小姐与蜥蜴先生</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250126231200 +0800" stop="20250126002900 +0800">
+		<title lang="zh">匿名情绪</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -86891,6 +86912,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250126215100 +0800" stop="20250126231500 +0800">
 		<title lang="zh">锦衣之下之绣春刀</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250126231500 +0800" stop="20250126001100 +0800">
+		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
