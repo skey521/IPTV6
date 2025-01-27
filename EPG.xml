@@ -18,6 +18,9 @@
 	<programme channel="4K综艺" start="20250128021600 +0800" stop="20250128025700 +0800">
 		<title lang="zh">重返地球20180302</title>
 	</programme>
+	<programme channel="4K综艺" start="20250128025700 +0800" stop="20250128042500 +0800">
+		<title lang="zh">奇兵神犬20171110</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -45642,6 +45645,9 @@
 	<programme channel="newtv超级综艺" start="20250128014900 +0800" stop="20250128025900 +0800">
 		<title lang="zh">舞蹈世界</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250128025900 +0800" stop="20250128041000 +0800">
+		<title lang="zh">开门迎春晚</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -45738,6 +45744,9 @@
 	<programme channel="newtv军旅剧场" start="20250128020800 +0800" stop="20250128025300 +0800">
 		<title lang="zh">06_北国英雄</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250128025300 +0800" stop="20250128033700 +0800">
+		<title lang="zh">07_北国英雄</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -45749,6 +45758,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250128020900 +0800" stop="20250128025700 +0800">
 		<title lang="zh">20_我们的婚姻</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250128025700 +0800" stop="20250128034700 +0800">
+		<title lang="zh">21_我们的婚姻</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -45779,6 +45791,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250128013800 +0800" stop="20250128025600 +0800">
 		<title lang="zh">特别有种：致命行动</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250128025600 +0800" stop="20250128042500 +0800">
+		<title lang="zh">镖行天下前传之燃眉危机</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -45854,6 +45869,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250128024400 +0800" stop="20250128024800 +0800">
 		<title lang="zh">风含情水含笑-孙爱迪（舞蹈展示）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250128025700 +0800" stop="20250128041600 +0800">
+		<title lang="zh">开门迎春晚（20250118）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
