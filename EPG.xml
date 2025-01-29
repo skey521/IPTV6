@@ -23094,6 +23094,9 @@
 	<programme channel="动作电影" start="20250129204300 +0800" stop="20250129211300 +0800">
 		<title lang="zh">【推广】十二生肖酒 30分钟版本</title>
 	</programme>
+	<programme channel="动作电影" start="20250129211300 +0800" stop="20250129234100 +0800">
+		<title lang="zh">封神第一部：朝歌风云</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -81942,6 +81945,9 @@
 	<programme channel="黑莓动画" start="20250129203800 +0800" stop="20250129210300 +0800">
 		<title lang="zh">18_德凯奥特曼 普通话版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250129210300 +0800" stop="20250129211600 +0800">
+		<title lang="zh">03_托宝战士之银河侦探1</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -82743,6 +82749,9 @@
 	<programme channel="newtv精品纪录" start="20250129201200 +0800" stop="20250129210200 +0800">
 		<title lang="zh">中国药材九制黄精套组-春节版-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250129210200 +0800" stop="20250129214000 +0800">
+		<title lang="zh">家乡至味2022（23）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -82916,6 +82925,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250129203100 +0800" stop="20250129211500 +0800">
 		<title lang="zh">42_警犬来啦</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250129211500 +0800" stop="20250129214500 +0800">
+		<title lang="zh">【推广】十二生肖酒 30分钟版本</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -83216,6 +83228,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250129204300 +0800" stop="20250129211300 +0800">
 		<title lang="zh">【推广】十二生肖酒 30分钟版本</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250129211300 +0800" stop="20250129234100 +0800">
+		<title lang="zh">封神第一部：朝歌风云</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -83544,6 +83559,9 @@
 	<programme channel="newtv军事评论" start="20250129204700 +0800" stop="20250129211300 +0800">
 		<title lang="zh">台军验证新版“接战规则” 美菲或进行“丛林跳岛”演练</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250129211300 +0800" stop="20250129213800 +0800">
+		<title lang="zh">德国二战后首次对外永久驻军 北约展露危险动向 乌军能力提升之快震惊美媒</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -83663,6 +83681,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250129201000 +0800" stop="20250129210300 +0800">
 		<title lang="zh">1998年央视春晚（三）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250129210300 +0800" stop="20250129215100 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
