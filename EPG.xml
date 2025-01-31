@@ -54,6 +54,9 @@
 	<programme channel="4K综艺" start="20250201011400 +0800" stop="20250201025700 +0800">
 		<title lang="zh">我最爱的女人们20190510</title>
 	</programme>
+	<programme channel="4K综艺" start="20250201025700 +0800" stop="20250201034800 +0800">
+		<title lang="zh">我最爱的女人们20190511</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -46593,6 +46596,9 @@
 	<programme channel="newtv超级综艺" start="20250201003500 +0800" stop="20250201025300 +0800">
 		<title lang="zh">新春喜剧之夜</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250201025300 +0800" stop="20250201045300 +0800">
+		<title lang="zh">欢欢喜喜过大年</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -46644,6 +46650,9 @@
 	<programme channel="newtv精品大剧" start="20250201021000 +0800" stop="20250201025700 +0800">
 		<title lang="zh">47_新边城浪子</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250201025700 +0800" stop="20250201034400 +0800">
+		<title lang="zh">48_新边城浪子</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -46658,6 +46667,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250201022200 +0800" stop="20250201025000 +0800">
 		<title lang="zh">第5集：技术创业是一场战斗</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250201025000 +0800" stop="20250201032100 +0800">
+		<title lang="zh">第6集：鸟哥的技术人生 我只是个坚韧并乐观的“幸存者”</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -46686,6 +46698,9 @@
 	<programme channel="newtv军旅剧场" start="20250201020500 +0800" stop="20250201025000 +0800">
 		<title lang="zh">26_北国英雄</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250201025000 +0800" stop="20250201033400 +0800">
+		<title lang="zh">27_北国英雄</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -46697,6 +46712,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250201020000 +0800" stop="20250201024900 +0800">
 		<title lang="zh">36_我们的婚姻</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250201024900 +0800" stop="20250201033900 +0800">
+		<title lang="zh">37_我们的婚姻</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -46716,6 +46734,9 @@
 	<programme channel="newtv爱情喜剧" start="20250201012300 +0800" stop="20250201025400 +0800">
 		<title lang="zh">大陆酒店</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250201025400 +0800" stop="20250201034200 +0800">
+		<title lang="zh">29_遇见幸福</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -46724,6 +46745,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250201013700 +0800" stop="20250201025400 +0800">
 		<title lang="zh">齐天大圣b7无双</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250201025400 +0800" stop="20250201042500 +0800">
+		<title lang="zh">坦克战</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -46788,6 +46812,9 @@
 	<programme channel="newtv炫舞未来" start="20250201012800 +0800" stop="20250201025300 +0800">
 		<title lang="zh">纪敏佳助阵！张梦羽圆梦《星光大道》总决赛（20250125）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250201025300 +0800" stop="20250201030300 +0800">
+		<title lang="zh">套马杆-乌兰图雅</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -46811,6 +46838,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20250201010400 +0800" stop="20250201025500 +0800">
 		<title lang="zh">我的艺术清单</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250201025500 +0800" stop="20250201043500 +0800">
+		<title lang="zh">登录圆鱼洲</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
