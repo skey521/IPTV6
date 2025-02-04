@@ -111,6 +111,9 @@
 	<programme channel="4K综艺" start="20250204203500 +0800" stop="20250204211400 +0800">
 		<title lang="zh">重返地球20180330</title>
 	</programme>
+	<programme channel="4K综艺" start="20250204211400 +0800" stop="20250204222200 +0800">
+		<title lang="zh">儿行千里20170924</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -67653,6 +67656,9 @@
 	<programme channel="纯享4K" start="20250204202300 +0800" stop="20250204211200 +0800">
 		<title lang="zh">大运河之歌4K 第3集 运河中心时代</title>
 	</programme>
+	<programme channel="纯享4K" start="20250204211200 +0800" stop="20250204220200 +0800">
+		<title lang="zh">大运河之歌4K 第4集 奔流南北</title>
+	</programme>
 	<channel id="绍兴新闻综合">
 		<display-name lang="zh">绍兴新闻综合</display-name>
 	</channel>
@@ -81948,6 +81954,9 @@
 	<programme channel="黑莓动画" start="20250204205000 +0800" stop="20250204210300 +0800">
 		<title lang="zh">15_托宝战士之银河侦探1</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250204210300 +0800" stop="20250204211700 +0800">
+		<title lang="zh">16_托宝战士之银河侦探1</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -82731,6 +82740,9 @@
 	<programme channel="newtv精品纪录" start="20250204203400 +0800" stop="20250204210400 +0800">
 		<title lang="zh">原味乡间b7益阳篇（1）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250204210400 +0800" stop="20250204214200 +0800">
+		<title lang="zh">家乡至味2022（31）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -82817,6 +82829,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250204204000 +0800" stop="20250204211000 +0800">
 		<title lang="zh">【推荐】雅德荣氨糖软骨素</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250204211000 +0800" stop="20250204215500 +0800">
+		<title lang="zh">07_嫣语赋</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -83643,6 +83658,9 @@
 	<programme channel="newtv炫舞未来" start="20250204201800 +0800" stop="20250204211100 +0800">
 		<title lang="zh">1998年央视春晚（三）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250204211100 +0800" stop="20250204215900 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -83822,6 +83840,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250204195500 +0800" stop="20250204210900 +0800">
 		<title lang="zh">半熟恋人第3季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250204210900 +0800" stop="20250204215900 +0800">
+		<title lang="zh">参太太海参即食辽刺参尊享组-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
