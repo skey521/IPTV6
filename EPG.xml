@@ -46335,6 +46335,9 @@
 	<programme channel="newtv超级体育" start="20250207023500 +0800" stop="20250207040000 +0800">
 		<title lang="zh">实况录像-2024年世界田联钻石联赛 布鲁塞尔站1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250207040000 +0800" stop="20250207053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第22轮 布伦特福德-利物浦(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -46385,6 +46388,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250207031200 +0800" stop="20250207035400 +0800">
 		<title lang="zh">29_民国恩仇录</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250207035400 +0800" stop="20250207044200 +0800">
+		<title lang="zh">30_怒放</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -46466,6 +46472,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250207031400 +0800" stop="20250207035900 +0800">
 		<title lang="zh">30_大嫁风尚</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250207035900 +0800" stop="20250207044800 +0800">
+		<title lang="zh">13_原来就是你</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -46584,6 +46593,9 @@
 	<programme channel="newtv炫舞未来" start="20250207034200 +0800" stop="20250207034600 +0800">
 		<title lang="zh">风含情水含笑-孙爱迪（舞蹈展示）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250207035100 +0800" stop="20250207050800 +0800">
+		<title lang="zh">喜剧人带着各地不同的习俗和美食共赴《开门大吉》（20250131）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -46595,6 +46607,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250207030900 +0800" stop="20250207035600 +0800">
 		<title lang="zh">19_一代枭雄</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250207035600 +0800" stop="20250207044400 +0800">
+		<title lang="zh">20_一代枭雄</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
