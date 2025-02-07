@@ -40125,6 +40125,9 @@
 	<programme channel="惊悚悬疑" start="20250207111700 +0800" stop="20250207120600 +0800">
 		<title lang="zh">美康利健激光前列腺治疗仪-渠道（右）</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250207120600 +0800" stop="20250207135300 +0800">
+		<title lang="zh">悬案密码3：信仰的阴谋</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -43670,6 +43673,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250207111200 +0800" stop="20250207120300 +0800">
 		<title lang="zh">美康利健半导体激光治疗仪-渠道（右）</title>
+	</programme>
+	<programme channel="明星大片" start="20250207120300 +0800" stop="20250207131900 +0800">
+		<title lang="zh">维和冲锋：绝境求生</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -60500,6 +60506,9 @@
 	</programme>
 	<programme channel="爱情喜剧" start="20250207111800 +0800" stop="20250207120400 +0800">
 		<title lang="zh">15_流光之城</title>
+	</programme>
+	<programme channel="爱情喜剧" start="20250207120400 +0800" stop="20250207125200 +0800">
+		<title lang="zh">BEYONPAN钛健康养生壶特惠款-渠道（右）</title>
 	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
@@ -80271,6 +80280,9 @@
 	<programme channel="newtv超级电视剧" start="20250207113800 +0800" stop="20250207121900 +0800">
 		<title lang="zh">14_故乡的泥土</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250207121900 +0800" stop="20250207130100 +0800">
+		<title lang="zh">15_故乡的泥土</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -80637,6 +80649,9 @@
 	<programme channel="newtv爱情喜剧" start="20250207111800 +0800" stop="20250207120400 +0800">
 		<title lang="zh">15_流光之城</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250207120400 +0800" stop="20250207125200 +0800">
+		<title lang="zh">BEYONPAN钛健康养生壶特惠款-渠道（右）</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -80714,6 +80729,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250207112900 +0800" stop="20250207121300 +0800">
 		<title lang="zh">九命刑警第27集</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250207121300 +0800" stop="20250207130200 +0800">
+		<title lang="zh">美康利健激光前列腺治疗仪-渠道（右）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -80964,6 +80982,9 @@
 	<programme channel="newtv精品综合" start="20250207111200 +0800" stop="20250207120300 +0800">
 		<title lang="zh">美康利健半导体激光治疗仪-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250207120300 +0800" stop="20250207131900 +0800">
+		<title lang="zh">维和冲锋：绝境求生</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -80990,6 +81011,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250207111700 +0800" stop="20250207120600 +0800">
 		<title lang="zh">美康利健激光前列腺治疗仪-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250207120600 +0800" stop="20250207135300 +0800">
+		<title lang="zh">悬案密码3：信仰的阴谋</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
