@@ -28539,6 +28539,9 @@
 	<programme channel="咪咕足球" start="20250207093000 +0800" stop="20250207111000 +0800">
 		<title lang="zh">当燃CBA-24/25常规赛第17轮 广东东阳光-上海久事</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250207112000 +0800" stop="20250207124000 +0800">
+		<title lang="zh">村BA</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -80217,6 +80220,9 @@
 	<programme channel="newtv超级电视剧" start="20250207101000 +0800" stop="20250207105600 +0800">
 		<title lang="zh">02_千金女贼</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250207105600 +0800" stop="20250207113800 +0800">
+		<title lang="zh">13_故乡的泥土</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -80261,6 +80267,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250207100800 +0800" stop="20250207105300 +0800">
 		<title lang="zh">30_瞄准</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250207105300 +0800" stop="20250207114100 +0800">
+		<title lang="zh">BEYONPAN钛健康养生壶特惠款-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -80324,6 +80333,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250207103600 +0800" stop="20250207105000 +0800">
 		<title lang="zh">06_苏轼 开启食材的新世界</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250207105000 +0800" stop="20250207110500 +0800">
+		<title lang="zh">07_苏轼 永不孤独的美食家</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -80462,6 +80474,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250207100900 +0800" stop="20250207105500 +0800">
 		<title lang="zh">20_求婚大作战</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250207105500 +0800" stop="20250207114200 +0800">
+		<title lang="zh">21_求婚大作战</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -80733,6 +80748,9 @@
 	<programme channel="newtv军事评论" start="20250207103500 +0800" stop="20250207110000 +0800">
 		<title lang="zh">台“天弓三型”导弹阵地意外曝光 美菲紧贴巴士海峡建港口</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250207110000 +0800" stop="20250207112600 +0800">
+		<title lang="zh">乌称准备在克里米亚采取“重大行动” 北约多国欲派兵入乌？</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -80801,6 +80819,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250207103200 +0800" stop="20250207105500 +0800">
 		<title lang="zh">小品《拍电影》 表演者：陈佩斯 朱时茂</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250207105500 +0800" stop="20250207114400 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -80888,6 +80909,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250207100600 +0800" stop="20250207110200 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250207110200 +0800" stop="20250207120100 +0800">
+		<title lang="zh">活力满分的夏天</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
