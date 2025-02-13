@@ -30921,6 +30921,9 @@
 	<programme channel="咪咕综合体育" start="20250213102000 +0800" stop="20250213104000 +0800">
 		<title lang="zh">国球荣耀-2025WTT常规挑战赛马斯喀特站 男单半决赛 陈垣宇-郭冠宏</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250213104000 +0800" stop="20250213110000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -68676,6 +68679,9 @@
 	<programme channel="纯享4K" start="20250213095000 +0800" stop="20250213102000 +0800">
 		<title lang="zh">寻古中国4K 寻夏记b7夏迹寻踪</title>
 	</programme>
+	<programme channel="纯享4K" start="20250213102000 +0800" stop="20250213105000 +0800">
+		<title lang="zh">寻古中国4K 寻夏记b7夏禾丰裕</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -82908,6 +82914,9 @@
 	<programme channel="黑莓动画" start="20250213095600 +0800" stop="20250213102200 +0800">
 		<title lang="zh">07_百变校巴2</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250213102200 +0800" stop="20250213110900 +0800">
+		<title lang="zh">汪汪队立大功第3季08</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -83826,6 +83835,9 @@
 	<programme channel="newtv超级电视剧" start="20250213095000 +0800" stop="20250213103300 +0800">
 		<title lang="zh">26_千金女贼</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250213103300 +0800" stop="20250213111900 +0800">
+		<title lang="zh">05_无间</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -83928,6 +83940,9 @@
 	<programme channel="newtv精品纪录" start="20250213095100 +0800" stop="20250213101600 +0800">
 		<title lang="zh">04_行家</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250213101600 +0800" stop="20250213110400 +0800">
+		<title lang="zh">万物滋养第一季第3集 旱地上的斗争</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -84012,6 +84027,9 @@
 	<programme channel="newtv军旅剧场" start="20250213095700 +0800" stop="20250213104400 +0800">
 		<title lang="zh">11_隐形将军</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250213104400 +0800" stop="20250213112900 +0800">
+		<title lang="zh">12_隐形将军</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -84054,6 +84072,9 @@
 	<programme channel="newtv家庭剧场" start="20250213093400 +0800" stop="20250213101900 +0800">
 		<title lang="zh">12_我爱男保姆</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250213101900 +0800" stop="20250213110400 +0800">
+		<title lang="zh">13_我爱男保姆</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -84092,6 +84113,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250213100000 +0800" stop="20250213104400 +0800">
 		<title lang="zh">01_岁岁青莲</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250213104400 +0800" stop="20250213112700 +0800">
+		<title lang="zh">02_岁岁青莲</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -84303,6 +84327,9 @@
 	<programme channel="newtv军事评论" start="20250213101100 +0800" stop="20250213103300 +0800">
 		<title lang="zh">天路辉煌 奋斗热土</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250213103300 +0800" stop="20250213105500 +0800">
+		<title lang="zh">天路辉煌 为了成功</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -84356,6 +84383,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250213091100 +0800" stop="20250213102800 +0800">
 		<title lang="zh">体育老师黄海军热爱传统文化 现场展示花式跳绳（20250130）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250213102800 +0800" stop="20250213111600 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -84446,6 +84476,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250213093900 +0800" stop="20250213102900 +0800">
 		<title lang="zh">中国药材九制黄精套组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250213102900 +0800" stop="20250213112000 +0800">
+		<title lang="zh">脱口秀大会第3季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
