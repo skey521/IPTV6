@@ -31509,6 +31509,9 @@
 	<programme channel="咪咕足球" start="20250215182000 +0800" stop="20250215185500 +0800">
 		<title lang="zh">西班牙篮球黄金一代02篮球万岁</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250215190000 +0800" stop="20250215221500 +0800">
+		<title lang="zh">当燃CBA-24/25俱乐部杯 决赛 直播</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -46928,6 +46931,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250215175800 +0800" stop="20250215184700 +0800">
 		<title lang="zh">活力满分的夏天</title>
+	</programme>
+	<programme channel="明星大片" start="20250215184700 +0800" stop="20250215192500 +0800">
+		<title lang="zh">百年鑫堂双阳鹿筋舒骨粉滋补组-渠道（右）</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -64509,6 +64515,9 @@
 	<programme channel="爱情喜剧" start="20250215182500 +0800" stop="20250215185500 +0800">
 		<title lang="zh">《时尚小咖秀》推荐第9期</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250215185500 +0800" stop="20250215194200 +0800">
+		<title lang="zh">55_好妻子</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -75018,6 +75027,9 @@
 	<programme channel="超级电影" start="20250215173000 +0800" stop="20250215190000 +0800">
 		<title lang="zh">电影《唯一的受害者》</title>
 	</programme>
+	<programme channel="超级电影" start="20250215190000 +0800" stop="20250215202400 +0800">
+		<title lang="zh">电影《重案行动之捣毒任务》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -85275,6 +85287,9 @@
 	<programme channel="黑莓动画" start="20250215184000 +0800" stop="20250215185500 +0800">
 		<title lang="zh">07_喜羊羊与灰太狼之嘻哈闯世界之三</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250215185500 +0800" stop="20250215191000 +0800">
+		<title lang="zh">08_喜羊羊与灰太狼之嘻哈闯世界之三</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -86211,6 +86226,9 @@
 	<programme channel="newtv超级电影" start="20250215173000 +0800" stop="20250215190000 +0800">
 		<title lang="zh">电影《唯一的受害者》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250215190000 +0800" stop="20250215202400 +0800">
+		<title lang="zh">电影《重案行动之捣毒任务》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -86628,6 +86646,9 @@
 	<programme channel="newtv军旅剧场" start="20250215181200 +0800" stop="20250215185700 +0800">
 		<title lang="zh">05_上海滩生死较量</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250215185700 +0800" stop="20250215194200 +0800">
+		<title lang="zh">06_上海滩生死较量</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -86775,6 +86796,9 @@
 	<programme channel="newtv热播精选" start="20250215180500 +0800" stop="20250215185100 +0800">
 		<title lang="zh">10_我们的婚姻</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250215185100 +0800" stop="20250215193700 +0800">
+		<title lang="zh">11_我们的婚姻</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -86837,6 +86861,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250215182500 +0800" stop="20250215185500 +0800">
 		<title lang="zh">《时尚小咖秀》推荐第9期</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250215185500 +0800" stop="20250215194200 +0800">
+		<title lang="zh">55_好妻子</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -87047,6 +87074,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250215181200 +0800" stop="20250215184800 +0800">
 		<title lang="zh">27_闪耀的她</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250215184800 +0800" stop="20250215192500 +0800">
+		<title lang="zh">28_闪耀的她</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -87345,6 +87375,9 @@
 	<programme channel="newtv精品综合" start="20250215175800 +0800" stop="20250215184700 +0800">
 		<title lang="zh">活力满分的夏天</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250215184700 +0800" stop="20250215192500 +0800">
+		<title lang="zh">百年鑫堂双阳鹿筋舒骨粉滋补组-渠道（右）</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -87437,6 +87470,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250215173700 +0800" stop="20250215185900 +0800">
 		<title lang="zh">典籍里的中国第2季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250215185900 +0800" stop="20250215193700 +0800">
+		<title lang="zh">百年鑫堂双阳鹿筋舒骨粉滋补组-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
