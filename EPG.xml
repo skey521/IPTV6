@@ -29214,6 +29214,9 @@
 	<programme channel="咪咕综合体育" start="20250217225500 +0800" stop="20250217231500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250217231500 +0800" stop="20250217000000 +0800">
+		<title lang="zh">足球世界-24/25赛季法甲 第21轮 巴黎圣日耳曼-摩纳哥</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
